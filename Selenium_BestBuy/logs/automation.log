@@ -506,3 +506,1164 @@
 2026-05-19 02:42:33,761 - INFO - Cart Validation Passed
 2026-05-19 02:42:33,837 - INFO - Positive Test Passed
 2026-05-19 02:42:33,837 - INFO - Positive Test Passed
+2026-05-19 11:53:40,175 - INFO - Opening BestBuy
+2026-05-19 11:53:40,175 - INFO - Opening BestBuy
+2026-05-19 11:53:43,023 - INFO - Selecting Country
+2026-05-19 11:53:43,023 - INFO - Selecting Country
+2026-05-19 11:53:52,049 - INFO - Opening Top Deals
+2026-05-19 11:53:52,049 - INFO - Opening Top Deals
+2026-05-19 11:54:03,461 - INFO - Opening Apple
+2026-05-19 11:54:03,461 - INFO - Opening Apple
+2026-05-19 11:54:12,010 - INFO - Opening MacBook
+2026-05-19 11:54:12,010 - INFO - Opening MacBook
+2026-05-19 11:54:22,914 - INFO - Selecting Processor Filter
+2026-05-19 11:54:22,914 - INFO - Selecting Processor Filter
+2026-05-19 11:54:31,962 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 11:54:31,962 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 11:54:43,102 - INFO - Invalid Filter Handled Successfully
+2026-05-19 11:54:43,102 - INFO - Invalid Filter Handled Successfully
+2026-05-19 11:54:43,190 - INFO - Negative Test Passed
+2026-05-19 11:54:43,190 - INFO - Negative Test Passed
+2026-05-19 11:54:46,539 - INFO - Opening BestBuy
+2026-05-19 11:54:46,539 - INFO - Opening BestBuy
+2026-05-19 11:54:49,996 - INFO - Selecting Country
+2026-05-19 11:54:49,996 - INFO - Selecting Country
+2026-05-19 11:54:53,251 - INFO - Opening Top Deals
+2026-05-19 11:54:53,251 - INFO - Opening Top Deals
+2026-05-19 11:55:07,046 - INFO - Opening Apple
+2026-05-19 11:55:07,046 - INFO - Opening Apple
+2026-05-19 11:55:14,059 - INFO - Opening MacBook
+2026-05-19 11:55:14,059 - INFO - Opening MacBook
+2026-05-19 11:55:23,616 - INFO - Selecting Processor Filter
+2026-05-19 11:55:23,616 - INFO - Selecting Processor Filter
+2026-05-19 11:55:32,692 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 11:55:32,692 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 11:55:43,850 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 11:55:43,850 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 11:55:43,940 - INFO - Negative Test Passed
+2026-05-19 11:55:43,940 - INFO - Negative Test Passed
+2026-05-19 11:55:47,321 - INFO - Opening BestBuy
+2026-05-19 11:55:47,321 - INFO - Opening BestBuy
+2026-05-19 11:55:49,892 - INFO - Selecting Country
+2026-05-19 11:55:49,892 - INFO - Selecting Country
+2026-05-19 11:55:54,512 - INFO - Opening Top Deals
+2026-05-19 11:55:54,512 - INFO - Opening Top Deals
+2026-05-19 11:56:06,421 - INFO - Opening Apple
+2026-05-19 11:56:06,421 - INFO - Opening Apple
+2026-05-19 11:56:13,350 - INFO - Opening MacBook
+2026-05-19 11:56:13,350 - INFO - Opening MacBook
+2026-05-19 11:56:25,399 - INFO - Selecting Processor Filter
+2026-05-19 11:56:25,399 - INFO - Selecting Processor Filter
+2026-05-19 11:56:34,428 - INFO - Selecting Processor: Apple M4
+2026-05-19 11:56:34,428 - INFO - Selecting Processor: Apple M4
+2026-05-19 11:57:20,120 - INFO - Add To Cart Passed
+2026-05-19 11:57:20,120 - INFO - Add To Cart Passed
+2026-05-19 11:57:20,187 - INFO - Positive Test Passed
+2026-05-19 11:57:20,187 - INFO - Positive Test Passed
+2026-05-19 11:57:23,486 - INFO - Opening BestBuy
+2026-05-19 11:57:23,486 - INFO - Opening BestBuy
+2026-05-19 11:57:26,919 - INFO - Selecting Country
+2026-05-19 11:57:26,919 - INFO - Selecting Country
+2026-05-19 11:57:30,214 - INFO - Opening Top Deals
+2026-05-19 11:57:30,214 - INFO - Opening Top Deals
+2026-05-19 11:57:42,811 - INFO - Opening Apple
+2026-05-19 11:57:42,811 - INFO - Opening Apple
+2026-05-19 11:57:49,717 - INFO - Opening MacBook
+2026-05-19 11:57:49,717 - INFO - Opening MacBook
+2026-05-19 11:57:59,813 - INFO - Selecting Processor Filter
+2026-05-19 11:57:59,813 - INFO - Selecting Processor Filter
+2026-05-19 11:58:08,850 - INFO - Selecting Processor: Apple M3
+2026-05-19 11:58:08,850 - INFO - Selecting Processor: Apple M3
+2026-05-19 11:58:52,008 - INFO - Add To Cart Passed
+2026-05-19 11:58:52,008 - INFO - Add To Cart Passed
+2026-05-19 11:58:52,093 - INFO - Positive Test Passed
+2026-05-19 11:58:52,093 - INFO - Positive Test Passed
+2026-05-19 11:58:55,506 - INFO - Opening BestBuy
+2026-05-19 11:58:55,506 - INFO - Opening BestBuy
+2026-05-19 11:58:59,420 - INFO - Selecting Country
+2026-05-19 11:58:59,420 - INFO - Selecting Country
+2026-05-19 11:59:02,680 - INFO - Opening Top Deals
+2026-05-19 11:59:02,680 - INFO - Opening Top Deals
+2026-05-19 11:59:14,685 - INFO - Opening Apple
+2026-05-19 11:59:14,685 - INFO - Opening Apple
+2026-05-19 11:59:21,647 - INFO - Opening MacBook
+2026-05-19 11:59:21,647 - INFO - Opening MacBook
+2026-05-19 11:59:32,401 - INFO - Selecting Processor Filter
+2026-05-19 11:59:32,401 - INFO - Selecting Processor Filter
+2026-05-19 11:59:41,460 - INFO - Selecting Processor: Apple M4
+2026-05-19 11:59:41,460 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:00:28,888 - INFO - Checkout Flow Passed
+2026-05-19 12:00:28,888 - INFO - Checkout Flow Passed
+2026-05-19 12:00:28,953 - INFO - Positive Test Passed
+2026-05-19 12:00:28,953 - INFO - Positive Test Passed
+2026-05-19 12:00:32,348 - INFO - Opening BestBuy
+2026-05-19 12:00:32,348 - INFO - Opening BestBuy
+2026-05-19 12:00:36,113 - INFO - Selecting Country
+2026-05-19 12:00:36,113 - INFO - Selecting Country
+2026-05-19 12:00:39,380 - INFO - Opening Top Deals
+2026-05-19 12:00:39,380 - INFO - Opening Top Deals
+2026-05-19 12:00:52,231 - INFO - Opening Apple
+2026-05-19 12:00:52,231 - INFO - Opening Apple
+2026-05-19 12:00:59,675 - INFO - Opening MacBook
+2026-05-19 12:00:59,675 - INFO - Opening MacBook
+2026-05-19 12:01:08,586 - INFO - Selecting Processor Filter
+2026-05-19 12:01:08,586 - INFO - Selecting Processor Filter
+2026-05-19 12:01:17,939 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:01:17,939 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:02:01,944 - INFO - Cart Validation Passed
+2026-05-19 12:02:01,944 - INFO - Cart Validation Passed
+2026-05-19 12:02:02,013 - INFO - Positive Test Passed
+2026-05-19 12:02:02,013 - INFO - Positive Test Passed
+2026-05-19 12:06:00,446 - INFO - Opening BestBuy
+2026-05-19 12:06:00,446 - INFO - Opening BestBuy
+2026-05-19 12:06:03,777 - INFO - Selecting Country
+2026-05-19 12:06:03,777 - INFO - Selecting Country
+2026-05-19 12:06:07,116 - INFO - Opening Top Deals
+2026-05-19 12:06:07,116 - INFO - Opening Top Deals
+2026-05-19 12:06:19,940 - INFO - Opening Apple
+2026-05-19 12:06:19,940 - INFO - Opening Apple
+2026-05-19 12:06:27,839 - INFO - Opening MacBook
+2026-05-19 12:06:27,839 - INFO - Opening MacBook
+2026-05-19 12:06:38,544 - INFO - Selecting Processor Filter
+2026-05-19 12:06:38,544 - INFO - Selecting Processor Filter
+2026-05-19 12:06:47,627 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 12:06:47,627 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 12:06:58,783 - INFO - Invalid Filter Handled Successfully
+2026-05-19 12:06:58,783 - INFO - Invalid Filter Handled Successfully
+2026-05-19 12:06:58,967 - INFO - Negative Test Passed
+2026-05-19 12:06:58,967 - INFO - Negative Test Passed
+2026-05-19 12:07:02,349 - INFO - Opening BestBuy
+2026-05-19 12:07:02,349 - INFO - Opening BestBuy
+2026-05-19 12:07:05,512 - INFO - Selecting Country
+2026-05-19 12:07:05,512 - INFO - Selecting Country
+2026-05-19 12:07:10,222 - INFO - Opening Top Deals
+2026-05-19 12:07:10,222 - INFO - Opening Top Deals
+2026-05-19 12:07:21,770 - INFO - Opening Apple
+2026-05-19 12:07:21,770 - INFO - Opening Apple
+2026-05-19 12:07:28,818 - INFO - Opening MacBook
+2026-05-19 12:07:28,818 - INFO - Opening MacBook
+2026-05-19 12:07:38,573 - INFO - Selecting Processor Filter
+2026-05-19 12:07:38,573 - INFO - Selecting Processor Filter
+2026-05-19 12:07:47,600 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 12:07:47,600 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 12:07:58,787 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 12:07:58,787 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 12:07:58,861 - INFO - Negative Test Passed
+2026-05-19 12:07:58,861 - INFO - Negative Test Passed
+2026-05-19 12:08:02,214 - INFO - Opening BestBuy
+2026-05-19 12:08:02,214 - INFO - Opening BestBuy
+2026-05-19 12:08:05,851 - INFO - Selecting Country
+2026-05-19 12:08:05,851 - INFO - Selecting Country
+2026-05-19 12:08:09,211 - INFO - Opening Top Deals
+2026-05-19 12:08:09,211 - INFO - Opening Top Deals
+2026-05-19 12:08:20,855 - INFO - Opening Apple
+2026-05-19 12:08:20,855 - INFO - Opening Apple
+2026-05-19 12:08:27,388 - INFO - Opening MacBook
+2026-05-19 12:08:27,388 - INFO - Opening MacBook
+2026-05-19 12:08:36,667 - INFO - Selecting Processor Filter
+2026-05-19 12:08:36,667 - INFO - Selecting Processor Filter
+2026-05-19 12:08:45,698 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:08:45,698 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:09:28,444 - INFO - Add To Cart Passed
+2026-05-19 12:09:28,444 - INFO - Add To Cart Passed
+2026-05-19 12:09:28,520 - INFO - Positive Test Passed
+2026-05-19 12:09:28,520 - INFO - Positive Test Passed
+2026-05-19 12:09:31,841 - INFO - Opening BestBuy
+2026-05-19 12:09:31,841 - INFO - Opening BestBuy
+2026-05-19 12:09:35,219 - INFO - Selecting Country
+2026-05-19 12:09:35,219 - INFO - Selecting Country
+2026-05-19 12:09:38,554 - INFO - Opening Top Deals
+2026-05-19 12:09:38,554 - INFO - Opening Top Deals
+2026-05-19 12:09:50,648 - INFO - Opening Apple
+2026-05-19 12:09:50,648 - INFO - Opening Apple
+2026-05-19 12:09:57,817 - INFO - Opening MacBook
+2026-05-19 12:09:57,817 - INFO - Opening MacBook
+2026-05-19 12:10:07,028 - INFO - Selecting Processor Filter
+2026-05-19 12:10:07,028 - INFO - Selecting Processor Filter
+2026-05-19 12:10:16,174 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:10:16,174 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:10:59,494 - INFO - Add To Cart Passed
+2026-05-19 12:10:59,494 - INFO - Add To Cart Passed
+2026-05-19 12:10:59,574 - INFO - Positive Test Passed
+2026-05-19 12:10:59,574 - INFO - Positive Test Passed
+2026-05-19 12:11:02,957 - INFO - Opening BestBuy
+2026-05-19 12:11:02,957 - INFO - Opening BestBuy
+2026-05-19 12:11:06,136 - INFO - Selecting Country
+2026-05-19 12:11:06,136 - INFO - Selecting Country
+2026-05-19 12:11:12,782 - INFO - Opening Top Deals
+2026-05-19 12:11:12,782 - INFO - Opening Top Deals
+2026-05-19 12:11:24,050 - INFO - Opening Apple
+2026-05-19 12:11:24,050 - INFO - Opening Apple
+2026-05-19 12:11:31,587 - INFO - Opening MacBook
+2026-05-19 12:11:31,587 - INFO - Opening MacBook
+2026-05-19 12:11:41,073 - INFO - Selecting Processor Filter
+2026-05-19 12:11:41,073 - INFO - Selecting Processor Filter
+2026-05-19 12:11:50,104 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:11:50,104 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:12:37,982 - INFO - Checkout Flow Passed
+2026-05-19 12:12:37,982 - INFO - Checkout Flow Passed
+2026-05-19 12:12:38,487 - INFO - Positive Test Passed
+2026-05-19 12:12:38,487 - INFO - Positive Test Passed
+2026-05-19 12:12:41,782 - INFO - Opening BestBuy
+2026-05-19 12:12:41,782 - INFO - Opening BestBuy
+2026-05-19 12:12:45,337 - INFO - Selecting Country
+2026-05-19 12:12:45,337 - INFO - Selecting Country
+2026-05-19 12:12:48,998 - INFO - Opening Top Deals
+2026-05-19 12:12:48,998 - INFO - Opening Top Deals
+2026-05-19 12:13:00,921 - INFO - Opening Apple
+2026-05-19 12:13:00,921 - INFO - Opening Apple
+2026-05-19 12:13:08,384 - INFO - Opening MacBook
+2026-05-19 12:13:08,384 - INFO - Opening MacBook
+2026-05-19 12:13:19,805 - INFO - Selecting Processor Filter
+2026-05-19 12:13:19,805 - INFO - Selecting Processor Filter
+2026-05-19 12:13:28,856 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:13:28,856 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:14:13,151 - INFO - Cart Validation Passed
+2026-05-19 12:14:13,151 - INFO - Cart Validation Passed
+2026-05-19 12:14:13,241 - INFO - Positive Test Passed
+2026-05-19 12:14:13,241 - INFO - Positive Test Passed
+2026-05-19 12:51:17,893 - INFO - Opening BestBuy
+2026-05-19 12:51:17,893 - INFO - Opening BestBuy
+2026-05-19 12:51:20,796 - INFO - Selecting Country
+2026-05-19 12:51:20,796 - INFO - Selecting Country
+2026-05-19 12:51:26,349 - INFO - Opening Top Deals
+2026-05-19 12:51:26,349 - INFO - Opening Top Deals
+2026-05-19 12:51:38,552 - INFO - Opening Apple
+2026-05-19 12:51:38,552 - INFO - Opening Apple
+2026-05-19 12:51:45,719 - INFO - Opening MacBook
+2026-05-19 12:51:45,719 - INFO - Opening MacBook
+2026-05-19 12:51:56,598 - INFO - Selecting Processor Filter
+2026-05-19 12:51:56,598 - INFO - Selecting Processor Filter
+2026-05-19 12:52:05,631 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 12:52:05,631 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 12:52:16,773 - INFO - Invalid Filter Handled Successfully
+2026-05-19 12:52:16,773 - INFO - Invalid Filter Handled Successfully
+2026-05-19 12:52:16,864 - INFO - Negative Test Passed
+2026-05-19 12:52:16,864 - INFO - Negative Test Passed
+2026-05-19 12:52:20,159 - INFO - Opening BestBuy
+2026-05-19 12:52:20,159 - INFO - Opening BestBuy
+2026-05-19 12:52:24,361 - INFO - Selecting Country
+2026-05-19 12:52:24,361 - INFO - Selecting Country
+2026-05-19 12:52:27,605 - INFO - Opening Top Deals
+2026-05-19 12:52:27,605 - INFO - Opening Top Deals
+2026-05-19 12:52:40,377 - INFO - Opening Apple
+2026-05-19 12:52:40,377 - INFO - Opening Apple
+2026-05-19 12:52:47,630 - INFO - Opening MacBook
+2026-05-19 12:52:47,630 - INFO - Opening MacBook
+2026-05-19 12:52:56,953 - INFO - Selecting Processor Filter
+2026-05-19 12:52:56,953 - INFO - Selecting Processor Filter
+2026-05-19 12:53:05,993 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 12:53:05,993 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 12:53:17,149 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 12:53:17,149 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 12:53:17,233 - INFO - Negative Test Passed
+2026-05-19 12:53:17,233 - INFO - Negative Test Passed
+2026-05-19 12:53:20,441 - INFO - Opening BestBuy
+2026-05-19 12:53:20,441 - INFO - Opening BestBuy
+2026-05-19 12:53:23,714 - INFO - Selecting Country
+2026-05-19 12:53:23,714 - INFO - Selecting Country
+2026-05-19 12:53:26,517 - INFO - Opening Top Deals
+2026-05-19 12:53:26,517 - INFO - Opening Top Deals
+2026-05-19 12:53:31,529 - INFO - Opening BestBuy
+2026-05-19 12:53:31,529 - INFO - Opening BestBuy
+2026-05-19 12:53:35,113 - INFO - Selecting Country
+2026-05-19 12:53:35,113 - INFO - Selecting Country
+2026-05-19 12:53:38,193 - INFO - Opening Top Deals
+2026-05-19 12:53:38,193 - INFO - Opening Top Deals
+2026-05-19 12:53:49,508 - INFO - Opening Apple
+2026-05-19 12:53:49,508 - INFO - Opening Apple
+2026-05-19 12:53:58,039 - INFO - Opening MacBook
+2026-05-19 12:53:58,039 - INFO - Opening MacBook
+2026-05-19 12:54:07,359 - INFO - Selecting Processor Filter
+2026-05-19 12:54:07,359 - INFO - Selecting Processor Filter
+2026-05-19 12:54:16,390 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:54:16,390 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:54:57,171 - INFO - Add To Cart Passed
+2026-05-19 12:54:57,171 - INFO - Add To Cart Passed
+2026-05-19 12:54:57,253 - INFO - Positive Test Passed
+2026-05-19 12:54:57,253 - INFO - Positive Test Passed
+2026-05-19 12:55:00,494 - INFO - Opening BestBuy
+2026-05-19 12:55:00,494 - INFO - Opening BestBuy
+2026-05-19 12:55:03,685 - INFO - Selecting Country
+2026-05-19 12:55:03,685 - INFO - Selecting Country
+2026-05-19 12:55:06,944 - INFO - Opening Top Deals
+2026-05-19 12:55:06,944 - INFO - Opening Top Deals
+2026-05-19 12:55:21,520 - INFO - Opening Apple
+2026-05-19 12:55:21,520 - INFO - Opening Apple
+2026-05-19 12:55:29,356 - INFO - Opening MacBook
+2026-05-19 12:55:29,356 - INFO - Opening MacBook
+2026-05-19 12:55:39,400 - INFO - Selecting Processor Filter
+2026-05-19 12:55:39,400 - INFO - Selecting Processor Filter
+2026-05-19 12:55:48,443 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:55:48,443 - INFO - Selecting Processor: Apple M4
+2026-05-19 12:56:36,143 - INFO - Checkout Flow Passed
+2026-05-19 12:56:36,143 - INFO - Checkout Flow Passed
+2026-05-19 12:56:36,201 - INFO - Positive Test Passed
+2026-05-19 12:56:36,201 - INFO - Positive Test Passed
+2026-05-19 12:56:39,475 - INFO - Opening BestBuy
+2026-05-19 12:56:39,475 - INFO - Opening BestBuy
+2026-05-19 12:56:42,194 - INFO - Selecting Country
+2026-05-19 12:56:42,194 - INFO - Selecting Country
+2026-05-19 12:56:46,382 - INFO - Opening Top Deals
+2026-05-19 12:56:46,382 - INFO - Opening Top Deals
+2026-05-19 12:57:00,547 - INFO - Opening Apple
+2026-05-19 12:57:00,547 - INFO - Opening Apple
+2026-05-19 12:57:07,604 - INFO - Opening MacBook
+2026-05-19 12:57:07,604 - INFO - Opening MacBook
+2026-05-19 12:57:18,418 - INFO - Selecting Processor Filter
+2026-05-19 12:57:18,418 - INFO - Selecting Processor Filter
+2026-05-19 12:57:27,526 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:57:27,526 - INFO - Selecting Processor: Apple M3
+2026-05-19 12:58:11,450 - INFO - Cart Validation Passed
+2026-05-19 12:58:11,450 - INFO - Cart Validation Passed
+2026-05-19 12:58:11,530 - INFO - Positive Test Passed
+2026-05-19 12:58:11,530 - INFO - Positive Test Passed
+2026-05-19 13:00:11,536 - INFO - Opening BestBuy
+2026-05-19 13:00:11,536 - INFO - Opening BestBuy
+2026-05-19 13:00:16,209 - INFO - Selecting Country
+2026-05-19 13:00:16,209 - INFO - Selecting Country
+2026-05-19 13:00:19,646 - INFO - Opening Top Deals
+2026-05-19 13:00:19,646 - INFO - Opening Top Deals
+2026-05-19 13:00:32,781 - INFO - Opening Apple
+2026-05-19 13:00:32,781 - INFO - Opening Apple
+2026-05-19 13:00:40,526 - INFO - Opening MacBook
+2026-05-19 13:00:40,526 - INFO - Opening MacBook
+2026-05-19 13:00:50,397 - INFO - Selecting Processor Filter
+2026-05-19 13:00:50,397 - INFO - Selecting Processor Filter
+2026-05-19 13:00:59,468 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 13:00:59,468 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 13:01:10,613 - INFO - Invalid Filter Handled Successfully
+2026-05-19 13:01:10,613 - INFO - Invalid Filter Handled Successfully
+2026-05-19 13:01:10,707 - INFO - Negative Test Passed
+2026-05-19 13:01:10,707 - INFO - Negative Test Passed
+2026-05-19 13:01:13,973 - INFO - Opening BestBuy
+2026-05-19 13:01:13,973 - INFO - Opening BestBuy
+2026-05-19 13:01:17,393 - INFO - Selecting Country
+2026-05-19 13:01:17,393 - INFO - Selecting Country
+2026-05-19 13:01:20,251 - INFO - Opening Top Deals
+2026-05-19 13:01:20,251 - INFO - Opening Top Deals
+2026-05-19 13:01:32,359 - INFO - Opening Apple
+2026-05-19 13:01:32,359 - INFO - Opening Apple
+2026-05-19 13:01:39,246 - INFO - Opening MacBook
+2026-05-19 13:01:39,246 - INFO - Opening MacBook
+2026-05-19 13:01:48,815 - INFO - Selecting Processor Filter
+2026-05-19 13:01:48,815 - INFO - Selecting Processor Filter
+2026-05-19 13:01:57,848 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 13:01:57,848 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 13:02:09,008 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 13:02:09,008 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 13:02:09,106 - INFO - Negative Test Passed
+2026-05-19 13:02:09,106 - INFO - Negative Test Passed
+2026-05-19 13:02:12,284 - INFO - Opening BestBuy
+2026-05-19 13:02:12,284 - INFO - Opening BestBuy
+2026-05-19 13:02:15,865 - INFO - Selecting Country
+2026-05-19 13:02:15,865 - INFO - Selecting Country
+2026-05-19 13:02:18,651 - INFO - Opening Top Deals
+2026-05-19 13:02:18,651 - INFO - Opening Top Deals
+2026-05-19 13:02:30,041 - INFO - Opening Apple
+2026-05-19 13:02:30,041 - INFO - Opening Apple
+2026-05-19 13:02:37,224 - INFO - Opening MacBook
+2026-05-19 13:02:37,224 - INFO - Opening MacBook
+2026-05-19 13:02:46,629 - INFO - Selecting Processor Filter
+2026-05-19 13:02:46,629 - INFO - Selecting Processor Filter
+2026-05-19 13:02:55,665 - INFO - Selecting Processor: Apple M4
+2026-05-19 13:02:55,665 - INFO - Selecting Processor: Apple M4
+2026-05-19 13:03:36,498 - INFO - Add To Cart Passed
+2026-05-19 13:03:36,498 - INFO - Add To Cart Passed
+2026-05-19 13:03:36,575 - INFO - Positive Test Passed
+2026-05-19 13:03:36,575 - INFO - Positive Test Passed
+2026-05-19 13:03:39,840 - INFO - Opening BestBuy
+2026-05-19 13:03:39,840 - INFO - Opening BestBuy
+2026-05-19 13:03:43,339 - INFO - Selecting Country
+2026-05-19 13:03:43,339 - INFO - Selecting Country
+2026-05-19 13:03:49,351 - INFO - Opening Top Deals
+2026-05-19 13:03:49,351 - INFO - Opening Top Deals
+2026-05-19 13:04:00,548 - INFO - Opening Apple
+2026-05-19 13:04:00,548 - INFO - Opening Apple
+2026-05-19 13:04:08,527 - INFO - Opening MacBook
+2026-05-19 13:04:08,527 - INFO - Opening MacBook
+2026-05-19 13:04:19,024 - INFO - Selecting Processor Filter
+2026-05-19 13:04:19,024 - INFO - Selecting Processor Filter
+2026-05-19 13:04:28,056 - INFO - Selecting Processor: Apple M3
+2026-05-19 13:04:28,056 - INFO - Selecting Processor: Apple M3
+2026-05-19 13:05:12,623 - INFO - Add To Cart Passed
+2026-05-19 13:05:12,623 - INFO - Add To Cart Passed
+2026-05-19 13:05:12,703 - INFO - Positive Test Passed
+2026-05-19 13:05:12,703 - INFO - Positive Test Passed
+2026-05-19 13:05:15,926 - INFO - Opening BestBuy
+2026-05-19 13:05:15,926 - INFO - Opening BestBuy
+2026-05-19 13:05:19,477 - INFO - Selecting Country
+2026-05-19 13:05:19,477 - INFO - Selecting Country
+2026-05-19 13:05:22,650 - INFO - Opening Top Deals
+2026-05-19 13:05:22,650 - INFO - Opening Top Deals
+2026-05-19 13:05:34,774 - INFO - Opening Apple
+2026-05-19 13:05:34,774 - INFO - Opening Apple
+2026-05-19 13:05:41,342 - INFO - Opening MacBook
+2026-05-19 13:05:41,342 - INFO - Opening MacBook
+2026-05-19 13:05:52,187 - INFO - Selecting Processor Filter
+2026-05-19 13:05:52,187 - INFO - Selecting Processor Filter
+2026-05-19 13:06:01,218 - INFO - Selecting Processor: Apple M4
+2026-05-19 13:06:01,218 - INFO - Selecting Processor: Apple M4
+2026-05-19 13:06:47,547 - INFO - Checkout Flow Passed
+2026-05-19 13:06:47,547 - INFO - Checkout Flow Passed
+2026-05-19 13:06:47,596 - INFO - Positive Test Passed
+2026-05-19 13:06:47,596 - INFO - Positive Test Passed
+2026-05-19 13:06:50,936 - INFO - Opening BestBuy
+2026-05-19 13:06:50,936 - INFO - Opening BestBuy
+2026-05-19 13:06:54,339 - INFO - Selecting Country
+2026-05-19 13:06:54,339 - INFO - Selecting Country
+2026-05-19 13:06:57,640 - INFO - Opening Top Deals
+2026-05-19 13:06:57,640 - INFO - Opening Top Deals
+2026-05-19 13:07:09,987 - INFO - Opening Apple
+2026-05-19 13:07:09,987 - INFO - Opening Apple
+2026-05-19 13:07:17,521 - INFO - Opening MacBook
+2026-05-19 13:07:17,521 - INFO - Opening MacBook
+2026-05-19 13:07:26,785 - INFO - Selecting Processor Filter
+2026-05-19 13:07:26,785 - INFO - Selecting Processor Filter
+2026-05-19 13:07:35,838 - INFO - Selecting Processor: Apple M3
+2026-05-19 13:07:35,838 - INFO - Selecting Processor: Apple M3
+2026-05-19 13:08:20,842 - INFO - Cart Validation Passed
+2026-05-19 13:08:20,842 - INFO - Cart Validation Passed
+2026-05-19 13:08:20,926 - INFO - Positive Test Passed
+2026-05-19 13:08:20,926 - INFO - Positive Test Passed
+2026-05-19 22:58:33,728 - INFO - Opening BestBuy
+2026-05-19 22:58:33,728 - INFO - Opening BestBuy
+2026-05-19 22:58:37,633 - INFO - Selecting Country
+2026-05-19 22:58:37,633 - INFO - Selecting Country
+2026-05-19 22:58:41,191 - INFO - Opening Top Deals
+2026-05-19 22:58:41,191 - INFO - Opening Top Deals
+2026-05-19 22:58:55,010 - INFO - Opening Apple
+2026-05-19 22:58:55,010 - INFO - Opening Apple
+2026-05-19 22:59:02,409 - INFO - Opening MacBook
+2026-05-19 22:59:02,409 - INFO - Opening MacBook
+2026-05-19 22:59:13,754 - INFO - Selecting Processor Filter
+2026-05-19 22:59:13,754 - INFO - Selecting Processor Filter
+2026-05-19 22:59:22,786 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 22:59:22,786 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 22:59:33,951 - INFO - Invalid Filter Handled Successfully
+2026-05-19 22:59:33,951 - INFO - Invalid Filter Handled Successfully
+2026-05-19 22:59:34,036 - INFO - Negative Test Passed
+2026-05-19 22:59:34,036 - INFO - Negative Test Passed
+2026-05-19 22:59:37,305 - INFO - Opening BestBuy
+2026-05-19 22:59:37,305 - INFO - Opening BestBuy
+2026-05-19 22:59:40,669 - INFO - Selecting Country
+2026-05-19 22:59:40,669 - INFO - Selecting Country
+2026-05-19 22:59:43,618 - INFO - Opening Top Deals
+2026-05-19 22:59:43,618 - INFO - Opening Top Deals
+2026-05-19 22:59:55,175 - INFO - Opening Apple
+2026-05-19 22:59:55,175 - INFO - Opening Apple
+2026-05-19 23:00:02,545 - INFO - Opening MacBook
+2026-05-19 23:00:02,545 - INFO - Opening MacBook
+2026-05-19 23:00:13,405 - INFO - Selecting Processor Filter
+2026-05-19 23:00:13,405 - INFO - Selecting Processor Filter
+2026-05-19 23:00:22,437 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 23:00:22,437 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 23:00:33,591 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 23:00:33,591 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 23:00:33,677 - INFO - Negative Test Passed
+2026-05-19 23:00:33,677 - INFO - Negative Test Passed
+2026-05-19 23:00:36,935 - INFO - Opening BestBuy
+2026-05-19 23:00:36,935 - INFO - Opening BestBuy
+2026-05-19 23:00:40,405 - INFO - Selecting Country
+2026-05-19 23:00:40,405 - INFO - Selecting Country
+2026-05-19 23:00:43,447 - INFO - Opening Top Deals
+2026-05-19 23:00:43,447 - INFO - Opening Top Deals
+2026-05-19 23:00:57,981 - INFO - Opening Apple
+2026-05-19 23:00:57,981 - INFO - Opening Apple
+2026-05-19 23:01:06,873 - INFO - Opening MacBook
+2026-05-19 23:01:06,873 - INFO - Opening MacBook
+2026-05-19 23:01:17,820 - INFO - Selecting Processor Filter
+2026-05-19 23:01:17,820 - INFO - Selecting Processor Filter
+2026-05-19 23:01:26,901 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:01:26,901 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:02:09,906 - INFO - Add To Cart Passed
+2026-05-19 23:02:09,906 - INFO - Add To Cart Passed
+2026-05-19 23:02:09,981 - INFO - Positive Test Passed
+2026-05-19 23:02:09,981 - INFO - Positive Test Passed
+2026-05-19 23:02:13,325 - INFO - Opening BestBuy
+2026-05-19 23:02:13,325 - INFO - Opening BestBuy
+2026-05-19 23:02:16,458 - INFO - Selecting Country
+2026-05-19 23:02:16,458 - INFO - Selecting Country
+2026-05-19 23:02:19,327 - INFO - Opening Top Deals
+2026-05-19 23:02:19,327 - INFO - Opening Top Deals
+2026-05-19 23:02:31,494 - INFO - Opening Apple
+2026-05-19 23:02:31,494 - INFO - Opening Apple
+2026-05-19 23:02:38,822 - INFO - Opening MacBook
+2026-05-19 23:02:38,822 - INFO - Opening MacBook
+2026-05-19 23:02:48,534 - INFO - Selecting Processor Filter
+2026-05-19 23:02:48,534 - INFO - Selecting Processor Filter
+2026-05-19 23:02:57,560 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:02:57,560 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:03:45,152 - INFO - Add To Cart Passed
+2026-05-19 23:03:45,152 - INFO - Add To Cart Passed
+2026-05-19 23:03:45,266 - INFO - Positive Test Passed
+2026-05-19 23:03:45,266 - INFO - Positive Test Passed
+2026-05-19 23:03:48,623 - INFO - Opening BestBuy
+2026-05-19 23:03:48,623 - INFO - Opening BestBuy
+2026-05-19 23:03:52,253 - INFO - Selecting Country
+2026-05-19 23:03:52,253 - INFO - Selecting Country
+2026-05-19 23:03:55,859 - INFO - Opening Top Deals
+2026-05-19 23:03:55,859 - INFO - Opening Top Deals
+2026-05-19 23:04:09,740 - INFO - Opening Apple
+2026-05-19 23:04:09,740 - INFO - Opening Apple
+2026-05-19 23:04:18,327 - INFO - Opening MacBook
+2026-05-19 23:04:18,327 - INFO - Opening MacBook
+2026-05-19 23:04:30,308 - INFO - Selecting Processor Filter
+2026-05-19 23:04:30,308 - INFO - Selecting Processor Filter
+2026-05-19 23:04:39,346 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:04:39,346 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:05:30,909 - INFO - Checkout Flow Passed
+2026-05-19 23:05:30,909 - INFO - Checkout Flow Passed
+2026-05-19 23:05:31,217 - INFO - Positive Test Passed
+2026-05-19 23:05:31,217 - INFO - Positive Test Passed
+2026-05-19 23:05:34,642 - INFO - Opening BestBuy
+2026-05-19 23:05:34,642 - INFO - Opening BestBuy
+2026-05-19 23:05:38,322 - INFO - Selecting Country
+2026-05-19 23:05:38,322 - INFO - Selecting Country
+2026-05-19 23:05:40,974 - INFO - Opening Top Deals
+2026-05-19 23:05:40,974 - INFO - Opening Top Deals
+2026-05-19 23:05:54,803 - INFO - Opening Apple
+2026-05-19 23:05:54,803 - INFO - Opening Apple
+2026-05-19 23:06:03,774 - INFO - Opening MacBook
+2026-05-19 23:06:03,774 - INFO - Opening MacBook
+2026-05-19 23:06:14,280 - INFO - Selecting Processor Filter
+2026-05-19 23:06:14,280 - INFO - Selecting Processor Filter
+2026-05-19 23:06:23,474 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:06:23,474 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:07:05,120 - INFO - Cart Validation Passed
+2026-05-19 23:07:05,120 - INFO - Cart Validation Passed
+2026-05-19 23:07:05,205 - INFO - Positive Test Passed
+2026-05-19 23:07:05,205 - INFO - Positive Test Passed
+2026-05-19 23:32:26,150 - INFO - Opening BestBuy
+2026-05-19 23:32:26,150 - INFO - Opening BestBuy
+2026-05-19 23:32:30,324 - INFO - Selecting Country
+2026-05-19 23:32:30,324 - INFO - Selecting Country
+2026-05-19 23:32:33,512 - INFO - Opening Top Deals
+2026-05-19 23:32:33,512 - INFO - Opening Top Deals
+2026-05-19 23:32:43,811 - INFO - Opening Apple
+2026-05-19 23:32:43,811 - INFO - Opening Apple
+2026-05-19 23:32:52,282 - INFO - Opening MacBook
+2026-05-19 23:32:52,282 - INFO - Opening MacBook
+2026-05-19 23:33:05,648 - INFO - Selecting Processor Filter
+2026-05-19 23:33:05,648 - INFO - Selecting Processor Filter
+2026-05-19 23:33:14,693 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 23:33:14,693 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-19 23:33:25,909 - INFO - Invalid Filter Handled Successfully
+2026-05-19 23:33:25,909 - INFO - Invalid Filter Handled Successfully
+2026-05-19 23:33:26,008 - INFO - Negative Test Passed
+2026-05-19 23:33:26,008 - INFO - Negative Test Passed
+2026-05-19 23:33:29,237 - INFO - Opening BestBuy
+2026-05-19 23:33:29,237 - INFO - Opening BestBuy
+2026-05-19 23:33:32,746 - INFO - Selecting Country
+2026-05-19 23:33:32,746 - INFO - Selecting Country
+2026-05-19 23:33:35,455 - INFO - Opening Top Deals
+2026-05-19 23:33:35,455 - INFO - Opening Top Deals
+2026-05-19 23:33:47,501 - INFO - Opening Apple
+2026-05-19 23:33:47,501 - INFO - Opening Apple
+2026-05-19 23:33:57,414 - INFO - Opening MacBook
+2026-05-19 23:33:57,414 - INFO - Opening MacBook
+2026-05-19 23:34:09,109 - INFO - Selecting Processor Filter
+2026-05-19 23:34:09,109 - INFO - Selecting Processor Filter
+2026-05-19 23:34:18,143 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 23:34:18,143 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-19 23:34:29,337 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 23:34:29,337 - INFO - Unsupported Filter Handled Successfully
+2026-05-19 23:34:29,437 - INFO - Negative Test Passed
+2026-05-19 23:34:29,437 - INFO - Negative Test Passed
+2026-05-19 23:34:32,706 - INFO - Opening BestBuy
+2026-05-19 23:34:32,706 - INFO - Opening BestBuy
+2026-05-19 23:34:36,099 - INFO - Selecting Country
+2026-05-19 23:34:36,099 - INFO - Selecting Country
+2026-05-19 23:34:38,580 - INFO - Opening Top Deals
+2026-05-19 23:34:38,580 - INFO - Opening Top Deals
+2026-05-19 23:34:49,809 - INFO - Opening Apple
+2026-05-19 23:34:49,809 - INFO - Opening Apple
+2026-05-19 23:34:58,212 - INFO - Opening MacBook
+2026-05-19 23:34:58,212 - INFO - Opening MacBook
+2026-05-19 23:35:08,006 - INFO - Selecting Processor Filter
+2026-05-19 23:35:08,006 - INFO - Selecting Processor Filter
+2026-05-19 23:35:17,043 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:35:17,043 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:36:00,606 - INFO - Add To Cart Passed
+2026-05-19 23:36:00,606 - INFO - Add To Cart Passed
+2026-05-19 23:36:00,666 - INFO - Positive Test Passed
+2026-05-19 23:36:00,666 - INFO - Positive Test Passed
+2026-05-19 23:36:04,120 - INFO - Opening BestBuy
+2026-05-19 23:36:04,120 - INFO - Opening BestBuy
+2026-05-19 23:36:07,468 - INFO - Selecting Country
+2026-05-19 23:36:07,468 - INFO - Selecting Country
+2026-05-19 23:36:10,533 - INFO - Opening Top Deals
+2026-05-19 23:36:10,533 - INFO - Opening Top Deals
+2026-05-19 23:36:24,584 - INFO - Opening Apple
+2026-05-19 23:36:24,584 - INFO - Opening Apple
+2026-05-19 23:36:32,895 - INFO - Opening MacBook
+2026-05-19 23:36:32,895 - INFO - Opening MacBook
+2026-05-19 23:36:44,815 - INFO - Selecting Processor Filter
+2026-05-19 23:36:44,815 - INFO - Selecting Processor Filter
+2026-05-19 23:36:53,862 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:36:53,862 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:37:36,298 - INFO - Add To Cart Passed
+2026-05-19 23:37:36,298 - INFO - Add To Cart Passed
+2026-05-19 23:37:36,389 - INFO - Positive Test Passed
+2026-05-19 23:37:36,389 - INFO - Positive Test Passed
+2026-05-19 23:37:39,778 - INFO - Opening BestBuy
+2026-05-19 23:37:39,778 - INFO - Opening BestBuy
+2026-05-19 23:37:43,092 - INFO - Selecting Country
+2026-05-19 23:37:43,092 - INFO - Selecting Country
+2026-05-19 23:37:46,215 - INFO - Opening Top Deals
+2026-05-19 23:37:46,215 - INFO - Opening Top Deals
+2026-05-19 23:37:59,453 - INFO - Opening Apple
+2026-05-19 23:37:59,453 - INFO - Opening Apple
+2026-05-19 23:38:08,630 - INFO - Opening MacBook
+2026-05-19 23:38:08,630 - INFO - Opening MacBook
+2026-05-19 23:38:21,679 - INFO - Selecting Processor Filter
+2026-05-19 23:38:21,679 - INFO - Selecting Processor Filter
+2026-05-19 23:38:30,739 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:38:30,739 - INFO - Selecting Processor: Apple M4
+2026-05-19 23:39:21,393 - INFO - Checkout Flow Passed
+2026-05-19 23:39:21,393 - INFO - Checkout Flow Passed
+2026-05-19 23:39:21,614 - INFO - Positive Test Passed
+2026-05-19 23:39:21,614 - INFO - Positive Test Passed
+2026-05-19 23:39:25,042 - INFO - Opening BestBuy
+2026-05-19 23:39:25,042 - INFO - Opening BestBuy
+2026-05-19 23:39:28,636 - INFO - Selecting Country
+2026-05-19 23:39:28,636 - INFO - Selecting Country
+2026-05-19 23:39:31,213 - INFO - Opening Top Deals
+2026-05-19 23:39:31,213 - INFO - Opening Top Deals
+2026-05-19 23:39:44,144 - INFO - Opening Apple
+2026-05-19 23:39:44,144 - INFO - Opening Apple
+2026-05-19 23:39:52,710 - INFO - Opening MacBook
+2026-05-19 23:39:52,710 - INFO - Opening MacBook
+2026-05-19 23:40:02,426 - INFO - Selecting Processor Filter
+2026-05-19 23:40:02,426 - INFO - Selecting Processor Filter
+2026-05-19 23:40:11,464 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:40:11,464 - INFO - Selecting Processor: Apple M3
+2026-05-19 23:40:52,673 - INFO - Cart Validation Passed
+2026-05-19 23:40:52,673 - INFO - Cart Validation Passed
+2026-05-19 23:40:52,759 - INFO - Positive Test Passed
+2026-05-19 23:40:52,759 - INFO - Positive Test Passed
+2026-05-20 00:11:45,659 - INFO - Opening BestBuy
+2026-05-20 00:11:45,659 - INFO - Opening BestBuy
+2026-05-20 00:11:48,983 - INFO - Selecting Country
+2026-05-20 00:11:48,983 - INFO - Selecting Country
+2026-05-20 00:11:51,804 - INFO - Opening Top Deals
+2026-05-20 00:11:51,804 - INFO - Opening Top Deals
+2026-05-20 00:12:03,100 - INFO - Opening Apple
+2026-05-20 00:12:03,100 - INFO - Opening Apple
+2026-05-20 00:12:10,648 - INFO - Opening MacBook
+2026-05-20 00:12:10,648 - INFO - Opening MacBook
+2026-05-20 00:12:20,296 - INFO - Selecting Processor Filter
+2026-05-20 00:12:20,296 - INFO - Selecting Processor Filter
+2026-05-20 00:12:29,346 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-20 00:12:29,346 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-20 00:12:40,519 - INFO - Invalid Filter Handled Successfully
+2026-05-20 00:12:40,519 - INFO - Invalid Filter Handled Successfully
+2026-05-20 00:12:40,604 - INFO - Negative Test Passed
+2026-05-20 00:12:40,604 - INFO - Negative Test Passed
+2026-05-20 00:12:44,142 - INFO - Opening BestBuy
+2026-05-20 00:12:44,142 - INFO - Opening BestBuy
+2026-05-20 00:12:47,232 - INFO - Selecting Country
+2026-05-20 00:12:47,232 - INFO - Selecting Country
+2026-05-20 00:12:52,158 - INFO - Opening Top Deals
+2026-05-20 00:12:52,158 - INFO - Opening Top Deals
+2026-05-20 00:13:01,139 - INFO - Opening Apple
+2026-05-20 00:13:01,139 - INFO - Opening Apple
+2026-05-20 00:13:09,044 - INFO - Opening MacBook
+2026-05-20 00:13:09,044 - INFO - Opening MacBook
+2026-05-20 00:13:21,495 - INFO - Selecting Processor Filter
+2026-05-20 00:13:21,495 - INFO - Selecting Processor Filter
+2026-05-20 00:13:30,532 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-20 00:13:30,532 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-20 00:13:41,678 - INFO - Unsupported Filter Handled Successfully
+2026-05-20 00:13:41,678 - INFO - Unsupported Filter Handled Successfully
+2026-05-20 00:13:41,773 - INFO - Negative Test Passed
+2026-05-20 00:13:41,773 - INFO - Negative Test Passed
+2026-05-20 00:13:45,107 - INFO - Opening BestBuy
+2026-05-20 00:13:45,107 - INFO - Opening BestBuy
+2026-05-20 00:13:48,149 - INFO - Selecting Country
+2026-05-20 00:13:48,149 - INFO - Selecting Country
+2026-05-20 00:13:50,582 - INFO - Opening Top Deals
+2026-05-20 00:13:50,582 - INFO - Opening Top Deals
+2026-05-20 00:14:02,850 - INFO - Opening Apple
+2026-05-20 00:14:02,850 - INFO - Opening Apple
+2026-05-20 00:14:10,341 - INFO - Opening MacBook
+2026-05-20 00:14:10,341 - INFO - Opening MacBook
+2026-05-20 00:14:21,858 - INFO - Selecting Processor Filter
+2026-05-20 00:14:21,858 - INFO - Selecting Processor Filter
+2026-05-20 00:14:30,929 - INFO - Selecting Processor: Apple M4
+2026-05-20 00:14:30,929 - INFO - Selecting Processor: Apple M4
+2026-05-20 00:15:05,674 - INFO - Add To Cart Passed
+2026-05-20 00:15:05,674 - INFO - Add To Cart Passed
+2026-05-20 00:15:05,746 - INFO - Positive Test Passed
+2026-05-20 00:15:05,746 - INFO - Positive Test Passed
+2026-05-20 00:15:09,042 - INFO - Opening BestBuy
+2026-05-20 00:15:09,042 - INFO - Opening BestBuy
+2026-05-20 00:15:12,463 - INFO - Selecting Country
+2026-05-20 00:15:12,463 - INFO - Selecting Country
+2026-05-20 00:15:17,287 - INFO - Opening Top Deals
+2026-05-20 00:15:17,287 - INFO - Opening Top Deals
+2026-05-20 00:15:27,976 - INFO - Opening Apple
+2026-05-20 00:15:27,976 - INFO - Opening Apple
+2026-05-20 00:15:35,465 - INFO - Opening MacBook
+2026-05-20 00:15:35,465 - INFO - Opening MacBook
+2026-05-20 00:15:47,215 - INFO - Selecting Processor Filter
+2026-05-20 00:15:47,215 - INFO - Selecting Processor Filter
+2026-05-20 00:15:56,259 - INFO - Selecting Processor: Apple M3
+2026-05-20 00:15:56,259 - INFO - Selecting Processor: Apple M3
+2026-05-20 00:16:29,866 - INFO - Add To Cart Passed
+2026-05-20 00:16:29,866 - INFO - Add To Cart Passed
+2026-05-20 00:16:29,953 - INFO - Positive Test Passed
+2026-05-20 00:16:29,953 - INFO - Positive Test Passed
+2026-05-20 00:16:34,084 - INFO - Opening BestBuy
+2026-05-20 00:16:34,084 - INFO - Opening BestBuy
+2026-05-20 00:16:37,363 - INFO - Selecting Country
+2026-05-20 00:16:37,363 - INFO - Selecting Country
+2026-05-20 00:16:39,828 - INFO - Opening Top Deals
+2026-05-20 00:16:39,828 - INFO - Opening Top Deals
+2026-05-20 00:16:52,323 - INFO - Opening Apple
+2026-05-20 00:16:52,323 - INFO - Opening Apple
+2026-05-20 00:17:00,355 - INFO - Opening MacBook
+2026-05-20 00:17:00,355 - INFO - Opening MacBook
+2026-05-20 00:17:10,409 - INFO - Selecting Processor Filter
+2026-05-20 00:17:10,409 - INFO - Selecting Processor Filter
+2026-05-20 00:17:19,454 - INFO - Selecting Processor: Apple M4
+2026-05-20 00:17:19,454 - INFO - Selecting Processor: Apple M4
+2026-05-20 00:17:58,453 - INFO - Checkout Flow Passed
+2026-05-20 00:17:58,453 - INFO - Checkout Flow Passed
+2026-05-20 00:17:58,524 - INFO - Positive Test Passed
+2026-05-20 00:17:58,524 - INFO - Positive Test Passed
+2026-05-20 00:18:01,917 - INFO - Opening BestBuy
+2026-05-20 00:18:01,917 - INFO - Opening BestBuy
+2026-05-20 00:18:05,007 - INFO - Selecting Country
+2026-05-20 00:18:05,007 - INFO - Selecting Country
+2026-05-20 00:18:07,557 - INFO - Opening Top Deals
+2026-05-20 00:18:07,557 - INFO - Opening Top Deals
+2026-05-20 00:18:19,617 - INFO - Opening Apple
+2026-05-20 00:18:19,617 - INFO - Opening Apple
+2026-05-20 00:18:27,029 - INFO - Opening MacBook
+2026-05-20 00:18:27,029 - INFO - Opening MacBook
+2026-05-20 00:18:38,888 - INFO - Selecting Processor Filter
+2026-05-20 00:18:38,888 - INFO - Selecting Processor Filter
+2026-05-20 00:18:47,918 - INFO - Selecting Processor: Apple M3
+2026-05-20 00:18:47,918 - INFO - Selecting Processor: Apple M3
+2026-05-20 00:19:20,895 - INFO - Cart Validation Passed
+2026-05-20 00:19:20,895 - INFO - Cart Validation Passed
+2026-05-20 00:19:20,955 - INFO - Positive Test Passed
+2026-05-20 00:19:20,955 - INFO - Positive Test Passed
+2026-05-20 01:24:01,228 - INFO - Opening BestBuy
+2026-05-20 01:24:01,228 - INFO - Opening BestBuy
+2026-05-20 01:24:01,228 - INFO - Opening BestBuy
+2026-05-20 01:24:03,072 - INFO - Selecting Country
+2026-05-20 01:24:03,072 - INFO - Selecting Country
+2026-05-20 01:24:03,072 - INFO - Selecting Country
+2026-05-20 01:24:05,258 - INFO - Opening Top Deals
+2026-05-20 01:24:05,258 - INFO - Opening Top Deals
+2026-05-20 01:24:05,258 - INFO - Opening Top Deals
+2026-05-20 01:24:13,897 - INFO - Opening Apple
+2026-05-20 01:24:13,897 - INFO - Opening Apple
+2026-05-20 01:24:13,897 - INFO - Opening Apple
+2026-05-20 01:24:20,696 - INFO - Opening MacBook
+2026-05-20 01:24:20,696 - INFO - Opening MacBook
+2026-05-20 01:24:20,696 - INFO - Opening MacBook
+2026-05-20 01:24:29,051 - INFO - Selecting Processor Filter
+2026-05-20 01:24:29,051 - INFO - Selecting Processor Filter
+2026-05-20 01:24:29,051 - INFO - Selecting Processor Filter
+2026-05-20 01:24:52,241 - INFO - Adding Product To Cart
+2026-05-20 01:24:52,241 - INFO - Adding Product To Cart
+2026-05-20 01:24:52,241 - INFO - Adding Product To Cart
+2026-05-20 01:25:09,744 - INFO - Proceeding To Checkout
+2026-05-20 01:25:09,744 - INFO - Proceeding To Checkout
+2026-05-20 01:25:09,744 - INFO - Proceeding To Checkout
+2026-05-20 01:25:17,575 - INFO - Opening BestBuy
+2026-05-20 01:25:17,575 - INFO - Opening BestBuy
+2026-05-20 01:25:17,575 - INFO - Opening BestBuy
+2026-05-20 01:25:18,735 - INFO - Selecting Country
+2026-05-20 01:25:18,735 - INFO - Selecting Country
+2026-05-20 01:25:18,735 - INFO - Selecting Country
+2026-05-20 01:25:20,835 - INFO - Opening Top Deals
+2026-05-20 01:25:20,835 - INFO - Opening Top Deals
+2026-05-20 01:25:20,835 - INFO - Opening Top Deals
+2026-05-20 01:25:29,367 - INFO - Opening Apple
+2026-05-20 01:25:29,367 - INFO - Opening Apple
+2026-05-20 01:25:29,367 - INFO - Opening Apple
+2026-05-20 01:25:39,779 - INFO - Opening MacBook
+2026-05-20 01:25:39,779 - INFO - Opening MacBook
+2026-05-20 01:25:39,779 - INFO - Opening MacBook
+2026-05-20 01:25:47,688 - INFO - Selecting Processor Filter
+2026-05-20 01:25:47,688 - INFO - Selecting Processor Filter
+2026-05-20 01:25:47,688 - INFO - Selecting Processor Filter
+2026-05-20 01:25:56,723 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:25:56,723 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:25:56,723 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:26:28,350 - INFO - Add To Cart Passed
+2026-05-20 01:26:28,350 - INFO - Add To Cart Passed
+2026-05-20 01:26:28,350 - INFO - Add To Cart Passed
+2026-05-20 01:26:28,415 - INFO - Positive Test Passed
+2026-05-20 01:26:28,415 - INFO - Positive Test Passed
+2026-05-20 01:26:28,415 - INFO - Positive Test Passed
+2026-05-20 01:26:31,694 - INFO - Opening BestBuy
+2026-05-20 01:26:31,694 - INFO - Opening BestBuy
+2026-05-20 01:26:31,694 - INFO - Opening BestBuy
+2026-05-20 01:26:32,931 - INFO - Selecting Country
+2026-05-20 01:26:32,931 - INFO - Selecting Country
+2026-05-20 01:26:32,931 - INFO - Selecting Country
+2026-05-20 01:26:34,777 - INFO - Opening Top Deals
+2026-05-20 01:26:34,777 - INFO - Opening Top Deals
+2026-05-20 01:26:34,777 - INFO - Opening Top Deals
+2026-05-20 01:26:42,955 - INFO - Opening Apple
+2026-05-20 01:26:42,955 - INFO - Opening Apple
+2026-05-20 01:26:42,955 - INFO - Opening Apple
+2026-05-20 01:26:51,279 - INFO - Opening MacBook
+2026-05-20 01:26:51,279 - INFO - Opening MacBook
+2026-05-20 01:26:51,279 - INFO - Opening MacBook
+2026-05-20 01:27:01,440 - INFO - Selecting Processor Filter
+2026-05-20 01:27:01,440 - INFO - Selecting Processor Filter
+2026-05-20 01:27:01,440 - INFO - Selecting Processor Filter
+2026-05-20 01:27:10,479 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:27:10,479 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:27:10,479 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:27:42,104 - INFO - Add To Cart Passed
+2026-05-20 01:27:42,104 - INFO - Add To Cart Passed
+2026-05-20 01:27:42,104 - INFO - Add To Cart Passed
+2026-05-20 01:27:42,174 - INFO - Positive Test Passed
+2026-05-20 01:27:42,174 - INFO - Positive Test Passed
+2026-05-20 01:27:42,174 - INFO - Positive Test Passed
+2026-05-20 01:27:45,532 - INFO - Opening BestBuy
+2026-05-20 01:27:45,532 - INFO - Opening BestBuy
+2026-05-20 01:27:45,532 - INFO - Opening BestBuy
+2026-05-20 01:27:47,168 - INFO - Selecting Country
+2026-05-20 01:27:47,168 - INFO - Selecting Country
+2026-05-20 01:27:47,168 - INFO - Selecting Country
+2026-05-20 01:27:49,115 - INFO - Opening Top Deals
+2026-05-20 01:27:49,115 - INFO - Opening Top Deals
+2026-05-20 01:27:49,115 - INFO - Opening Top Deals
+2026-05-20 01:27:57,801 - INFO - Opening Apple
+2026-05-20 01:27:57,801 - INFO - Opening Apple
+2026-05-20 01:27:57,801 - INFO - Opening Apple
+2026-05-20 01:28:04,973 - INFO - Opening MacBook
+2026-05-20 01:28:04,973 - INFO - Opening MacBook
+2026-05-20 01:28:04,973 - INFO - Opening MacBook
+2026-05-20 01:28:13,174 - INFO - Selecting Processor Filter
+2026-05-20 01:28:13,174 - INFO - Selecting Processor Filter
+2026-05-20 01:28:13,174 - INFO - Selecting Processor Filter
+2026-05-20 01:28:22,208 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:28:22,208 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:28:22,208 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:28:58,921 - INFO - Checkout Flow Passed
+2026-05-20 01:28:58,921 - INFO - Checkout Flow Passed
+2026-05-20 01:28:58,921 - INFO - Checkout Flow Passed
+2026-05-20 01:28:58,969 - INFO - Positive Test Passed
+2026-05-20 01:28:58,969 - INFO - Positive Test Passed
+2026-05-20 01:28:58,969 - INFO - Positive Test Passed
+2026-05-20 01:29:02,293 - INFO - Opening BestBuy
+2026-05-20 01:29:02,293 - INFO - Opening BestBuy
+2026-05-20 01:29:02,293 - INFO - Opening BestBuy
+2026-05-20 01:29:03,814 - INFO - Selecting Country
+2026-05-20 01:29:03,814 - INFO - Selecting Country
+2026-05-20 01:29:03,814 - INFO - Selecting Country
+2026-05-20 01:29:05,681 - INFO - Opening Top Deals
+2026-05-20 01:29:05,681 - INFO - Opening Top Deals
+2026-05-20 01:29:05,681 - INFO - Opening Top Deals
+2026-05-20 01:29:13,817 - INFO - Opening Apple
+2026-05-20 01:29:13,817 - INFO - Opening Apple
+2026-05-20 01:29:13,817 - INFO - Opening Apple
+2026-05-20 01:29:20,706 - INFO - Opening MacBook
+2026-05-20 01:29:20,706 - INFO - Opening MacBook
+2026-05-20 01:29:20,706 - INFO - Opening MacBook
+2026-05-20 01:29:28,195 - INFO - Selecting Processor Filter
+2026-05-20 01:29:28,195 - INFO - Selecting Processor Filter
+2026-05-20 01:29:28,195 - INFO - Selecting Processor Filter
+2026-05-20 01:29:37,234 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:29:37,234 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:29:37,234 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:30:10,041 - INFO - Cart Validation Passed
+2026-05-20 01:30:10,041 - INFO - Cart Validation Passed
+2026-05-20 01:30:10,041 - INFO - Cart Validation Passed
+2026-05-20 01:30:10,127 - INFO - Positive Test Passed
+2026-05-20 01:30:10,127 - INFO - Positive Test Passed
+2026-05-20 01:30:10,127 - INFO - Positive Test Passed
+2026-05-20 01:30:13,317 - INFO - Opening BestBuy
+2026-05-20 01:30:13,317 - INFO - Opening BestBuy
+2026-05-20 01:30:13,317 - INFO - Opening BestBuy
+2026-05-20 01:30:14,833 - INFO - Selecting Country
+2026-05-20 01:30:14,833 - INFO - Selecting Country
+2026-05-20 01:30:14,833 - INFO - Selecting Country
+2026-05-20 01:30:16,892 - INFO - Opening Top Deals
+2026-05-20 01:30:16,892 - INFO - Opening Top Deals
+2026-05-20 01:30:16,892 - INFO - Opening Top Deals
+2026-05-20 01:30:26,712 - INFO - Opening Apple
+2026-05-20 01:30:26,712 - INFO - Opening Apple
+2026-05-20 01:30:26,712 - INFO - Opening Apple
+2026-05-20 01:30:34,072 - INFO - Opening MacBook
+2026-05-20 01:30:34,072 - INFO - Opening MacBook
+2026-05-20 01:30:34,072 - INFO - Opening MacBook
+2026-05-20 01:30:42,389 - INFO - Selecting Processor Filter
+2026-05-20 01:30:42,389 - INFO - Selecting Processor Filter
+2026-05-20 01:30:42,389 - INFO - Selecting Processor Filter
+2026-05-20 01:30:51,442 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:30:51,442 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:30:51,442 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:31:06,240 - INFO - Negative Test Passed
+2026-05-20 01:31:06,240 - INFO - Negative Test Passed
+2026-05-20 01:31:06,240 - INFO - Negative Test Passed
+2026-05-20 01:31:09,433 - INFO - Opening BestBuy
+2026-05-20 01:31:09,433 - INFO - Opening BestBuy
+2026-05-20 01:31:09,433 - INFO - Opening BestBuy
+2026-05-20 01:31:10,662 - INFO - Selecting Country
+2026-05-20 01:31:10,662 - INFO - Selecting Country
+2026-05-20 01:31:10,662 - INFO - Selecting Country
+2026-05-20 01:31:12,830 - INFO - Opening Top Deals
+2026-05-20 01:31:12,830 - INFO - Opening Top Deals
+2026-05-20 01:31:12,830 - INFO - Opening Top Deals
+2026-05-20 01:31:21,725 - INFO - Opening Apple
+2026-05-20 01:31:21,725 - INFO - Opening Apple
+2026-05-20 01:31:21,725 - INFO - Opening Apple
+2026-05-20 01:31:28,463 - INFO - Opening MacBook
+2026-05-20 01:31:28,463 - INFO - Opening MacBook
+2026-05-20 01:31:28,463 - INFO - Opening MacBook
+2026-05-20 01:31:35,995 - INFO - Selecting Processor Filter
+2026-05-20 01:31:35,995 - INFO - Selecting Processor Filter
+2026-05-20 01:31:35,995 - INFO - Selecting Processor Filter
+2026-05-20 01:31:45,033 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:31:45,033 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:31:45,033 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:31:59,679 - INFO - Negative Test Passed
+2026-05-20 01:31:59,679 - INFO - Negative Test Passed
+2026-05-20 01:31:59,679 - INFO - Negative Test Passed
+2026-05-20 01:32:02,882 - INFO - Opening BestBuy
+2026-05-20 01:32:02,882 - INFO - Opening BestBuy
+2026-05-20 01:32:02,882 - INFO - Opening BestBuy
+2026-05-20 01:32:04,014 - INFO - Selecting Country
+2026-05-20 01:32:04,014 - INFO - Selecting Country
+2026-05-20 01:32:04,014 - INFO - Selecting Country
+2026-05-20 01:32:06,189 - INFO - Opening Top Deals
+2026-05-20 01:32:06,189 - INFO - Opening Top Deals
+2026-05-20 01:32:06,189 - INFO - Opening Top Deals
+2026-05-20 01:32:15,423 - INFO - Opening Apple
+2026-05-20 01:32:15,423 - INFO - Opening Apple
+2026-05-20 01:32:15,423 - INFO - Opening Apple
+2026-05-20 01:32:21,881 - INFO - Opening MacBook
+2026-05-20 01:32:21,881 - INFO - Opening MacBook
+2026-05-20 01:32:21,881 - INFO - Opening MacBook
+2026-05-20 01:32:32,216 - INFO - Selecting Processor Filter
+2026-05-20 01:32:32,216 - INFO - Selecting Processor Filter
+2026-05-20 01:32:32,216 - INFO - Selecting Processor Filter
+2026-05-20 01:32:41,254 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:32:41,254 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:32:41,254 - INFO - Selecting Invalid Processor: Apple M4
+2026-05-20 01:32:55,621 - INFO - Negative Test Passed
+2026-05-20 01:32:55,621 - INFO - Negative Test Passed
+2026-05-20 01:32:55,621 - INFO - Negative Test Passed
+2026-05-20 01:32:58,847 - INFO - Opening BestBuy
+2026-05-20 01:32:58,847 - INFO - Opening BestBuy
+2026-05-20 01:32:58,847 - INFO - Opening BestBuy
+2026-05-20 01:33:00,068 - INFO - Selecting Country
+2026-05-20 01:33:00,068 - INFO - Selecting Country
+2026-05-20 01:33:00,068 - INFO - Selecting Country
+2026-05-20 01:33:02,224 - INFO - Opening Top Deals
+2026-05-20 01:33:02,224 - INFO - Opening Top Deals
+2026-05-20 01:33:02,224 - INFO - Opening Top Deals
+2026-05-20 01:33:11,419 - INFO - Opening Apple
+2026-05-20 01:33:11,419 - INFO - Opening Apple
+2026-05-20 01:33:11,419 - INFO - Opening Apple
+2026-05-20 01:33:20,436 - INFO - Opening MacBook
+2026-05-20 01:33:20,436 - INFO - Opening MacBook
+2026-05-20 01:33:20,436 - INFO - Opening MacBook
+2026-05-20 01:33:29,514 - INFO - Selecting Processor Filter
+2026-05-20 01:33:29,514 - INFO - Selecting Processor Filter
+2026-05-20 01:33:29,514 - INFO - Selecting Processor Filter
+2026-05-20 01:33:38,571 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:33:38,571 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:33:38,571 - INFO - Selecting Invalid Processor: Apple M3
+2026-05-20 01:33:53,363 - INFO - Negative Test Passed
+2026-05-20 01:33:53,363 - INFO - Negative Test Passed
+2026-05-20 01:33:53,363 - INFO - Negative Test Passed
+2026-05-20 01:39:34,229 - INFO - Opening BestBuy
+2026-05-20 01:39:34,229 - INFO - Opening BestBuy
+2026-05-20 01:39:34,229 - INFO - Opening BestBuy
+2026-05-20 01:39:36,213 - INFO - Selecting Country
+2026-05-20 01:39:36,213 - INFO - Selecting Country
+2026-05-20 01:39:36,213 - INFO - Selecting Country
+2026-05-20 01:39:39,154 - INFO - Opening Top Deals
+2026-05-20 01:39:39,154 - INFO - Opening Top Deals
+2026-05-20 01:39:39,154 - INFO - Opening Top Deals
+2026-05-20 01:39:50,294 - INFO - Opening Apple
+2026-05-20 01:39:50,294 - INFO - Opening Apple
+2026-05-20 01:39:50,294 - INFO - Opening Apple
+2026-05-20 01:39:58,270 - INFO - Opening MacBook
+2026-05-20 01:39:58,270 - INFO - Opening MacBook
+2026-05-20 01:39:58,270 - INFO - Opening MacBook
+2026-05-20 01:40:07,055 - INFO - Selecting Processor Filter
+2026-05-20 01:40:07,055 - INFO - Selecting Processor Filter
+2026-05-20 01:40:07,055 - INFO - Selecting Processor Filter
+2026-05-20 01:40:31,289 - INFO - Adding Product To Cart
+2026-05-20 01:40:31,289 - INFO - Adding Product To Cart
+2026-05-20 01:40:31,289 - INFO - Adding Product To Cart
+2026-05-20 01:40:49,449 - INFO - Proceeding To Checkout
+2026-05-20 01:40:49,449 - INFO - Proceeding To Checkout
+2026-05-20 01:40:49,449 - INFO - Proceeding To Checkout
+2026-05-20 01:40:53,423 - INFO - End To End Flow Passed
+2026-05-20 01:40:53,423 - INFO - End To End Flow Passed
+2026-05-20 01:40:53,423 - INFO - End To End Flow Passed
+2026-05-20 01:40:56,900 - INFO - Opening BestBuy
+2026-05-20 01:40:56,900 - INFO - Opening BestBuy
+2026-05-20 01:40:56,900 - INFO - Opening BestBuy
+2026-05-20 01:40:58,461 - INFO - Selecting Country
+2026-05-20 01:40:58,461 - INFO - Selecting Country
+2026-05-20 01:40:58,461 - INFO - Selecting Country
+2026-05-20 01:41:00,638 - INFO - Opening Top Deals
+2026-05-20 01:41:00,638 - INFO - Opening Top Deals
+2026-05-20 01:41:00,638 - INFO - Opening Top Deals
+2026-05-20 01:41:11,308 - INFO - Opening Apple
+2026-05-20 01:41:11,308 - INFO - Opening Apple
+2026-05-20 01:41:11,308 - INFO - Opening Apple
+2026-05-20 01:41:18,319 - INFO - Opening MacBook
+2026-05-20 01:41:18,319 - INFO - Opening MacBook
+2026-05-20 01:41:18,319 - INFO - Opening MacBook
+2026-05-20 01:41:27,055 - INFO - Selecting Processor Filter
+2026-05-20 01:41:27,055 - INFO - Selecting Processor Filter
+2026-05-20 01:41:27,055 - INFO - Selecting Processor Filter
+2026-05-20 01:41:36,210 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:41:36,210 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:41:36,210 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:42:10,281 - INFO - Add To Cart Passed
+2026-05-20 01:42:10,281 - INFO - Add To Cart Passed
+2026-05-20 01:42:10,281 - INFO - Add To Cart Passed
+2026-05-20 01:42:10,350 - INFO - Positive Test Passed
+2026-05-20 01:42:10,350 - INFO - Positive Test Passed
+2026-05-20 01:42:10,350 - INFO - Positive Test Passed
+2026-05-20 01:42:13,606 - INFO - Opening BestBuy
+2026-05-20 01:42:13,606 - INFO - Opening BestBuy
+2026-05-20 01:42:13,606 - INFO - Opening BestBuy
+2026-05-20 01:42:14,797 - INFO - Selecting Country
+2026-05-20 01:42:14,797 - INFO - Selecting Country
+2026-05-20 01:42:14,797 - INFO - Selecting Country
+2026-05-20 01:42:17,598 - INFO - Opening Top Deals
+2026-05-20 01:42:17,598 - INFO - Opening Top Deals
+2026-05-20 01:42:17,598 - INFO - Opening Top Deals
+2026-05-20 01:42:28,126 - INFO - Opening Apple
+2026-05-20 01:42:28,126 - INFO - Opening Apple
+2026-05-20 01:42:28,126 - INFO - Opening Apple
+2026-05-20 01:42:34,831 - INFO - Opening MacBook
+2026-05-20 01:42:34,831 - INFO - Opening MacBook
+2026-05-20 01:42:34,831 - INFO - Opening MacBook
+2026-05-20 01:42:45,292 - INFO - Selecting Processor Filter
+2026-05-20 01:42:45,292 - INFO - Selecting Processor Filter
+2026-05-20 01:42:45,292 - INFO - Selecting Processor Filter
+2026-05-20 01:42:54,413 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:42:54,413 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:42:54,413 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:43:27,701 - INFO - Add To Cart Passed
+2026-05-20 01:43:27,701 - INFO - Add To Cart Passed
+2026-05-20 01:43:27,701 - INFO - Add To Cart Passed
+2026-05-20 01:43:27,776 - INFO - Positive Test Passed
+2026-05-20 01:43:27,776 - INFO - Positive Test Passed
+2026-05-20 01:43:27,776 - INFO - Positive Test Passed
+2026-05-20 01:43:31,054 - INFO - Opening BestBuy
+2026-05-20 01:43:31,054 - INFO - Opening BestBuy
+2026-05-20 01:43:31,054 - INFO - Opening BestBuy
+2026-05-20 01:43:32,575 - INFO - Selecting Country
+2026-05-20 01:43:32,575 - INFO - Selecting Country
+2026-05-20 01:43:32,575 - INFO - Selecting Country
+2026-05-20 01:43:34,852 - INFO - Opening Top Deals
+2026-05-20 01:43:34,852 - INFO - Opening Top Deals
+2026-05-20 01:43:34,852 - INFO - Opening Top Deals
+2026-05-20 01:43:44,543 - INFO - Opening Apple
+2026-05-20 01:43:44,543 - INFO - Opening Apple
+2026-05-20 01:43:44,543 - INFO - Opening Apple
+2026-05-20 01:43:51,430 - INFO - Opening MacBook
+2026-05-20 01:43:51,430 - INFO - Opening MacBook
+2026-05-20 01:43:51,430 - INFO - Opening MacBook
+2026-05-20 01:43:59,546 - INFO - Selecting Processor Filter
+2026-05-20 01:43:59,546 - INFO - Selecting Processor Filter
+2026-05-20 01:43:59,546 - INFO - Selecting Processor Filter
+2026-05-20 01:44:08,585 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:44:08,585 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:44:08,585 - INFO - Selecting Processor: Apple M4
+2026-05-20 01:44:46,447 - INFO - Checkout Flow Passed
+2026-05-20 01:44:46,447 - INFO - Checkout Flow Passed
+2026-05-20 01:44:46,447 - INFO - Checkout Flow Passed
+2026-05-20 01:44:46,501 - INFO - Positive Test Passed
+2026-05-20 01:44:46,501 - INFO - Positive Test Passed
+2026-05-20 01:44:46,501 - INFO - Positive Test Passed
+2026-05-20 01:44:49,787 - INFO - Opening BestBuy
+2026-05-20 01:44:49,787 - INFO - Opening BestBuy
+2026-05-20 01:44:49,787 - INFO - Opening BestBuy
+2026-05-20 01:44:51,516 - INFO - Selecting Country
+2026-05-20 01:44:51,516 - INFO - Selecting Country
+2026-05-20 01:44:51,516 - INFO - Selecting Country
+2026-05-20 01:44:53,929 - INFO - Opening Top Deals
+2026-05-20 01:44:53,929 - INFO - Opening Top Deals
+2026-05-20 01:44:53,929 - INFO - Opening Top Deals
+2026-05-20 01:45:04,606 - INFO - Opening Apple
+2026-05-20 01:45:04,606 - INFO - Opening Apple
+2026-05-20 01:45:04,606 - INFO - Opening Apple
+2026-05-20 01:45:14,952 - INFO - Opening MacBook
+2026-05-20 01:45:14,952 - INFO - Opening MacBook
+2026-05-20 01:45:14,952 - INFO - Opening MacBook
+2026-05-20 01:45:24,772 - INFO - Selecting Processor Filter
+2026-05-20 01:45:24,772 - INFO - Selecting Processor Filter
+2026-05-20 01:45:24,772 - INFO - Selecting Processor Filter
+2026-05-20 01:45:33,821 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:45:33,821 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:45:33,821 - INFO - Selecting Processor: Apple M3
+2026-05-20 01:46:07,135 - INFO - Cart Validation Passed
+2026-05-20 01:46:07,135 - INFO - Cart Validation Passed
+2026-05-20 01:46:07,135 - INFO - Cart Validation Passed
+2026-05-20 01:46:07,198 - INFO - Positive Test Passed
+2026-05-20 01:46:07,198 - INFO - Positive Test Passed
+2026-05-20 01:46:07,198 - INFO - Positive Test Passed
+2026-05-20 01:46:10,437 - INFO - Opening BestBuy
+2026-05-20 01:46:10,437 - INFO - Opening BestBuy
+2026-05-20 01:46:10,437 - INFO - Opening BestBuy
+2026-05-20 01:46:13,521 - INFO - Selecting Country
+2026-05-20 01:46:13,521 - INFO - Selecting Country
+2026-05-20 01:46:13,521 - INFO - Selecting Country
+2026-05-20 01:46:18,293 - INFO - Opening Top Deals
+2026-05-20 01:46:18,293 - INFO - Opening Top Deals
+2026-05-20 01:46:18,293 - INFO - Opening Top Deals
+2026-05-20 01:46:29,221 - INFO - Opening Apple
+2026-05-20 01:46:29,221 - INFO - Opening Apple
+2026-05-20 01:46:29,221 - INFO - Opening Apple
+2026-05-20 01:46:36,246 - INFO - Opening MacBook
+2026-05-20 01:46:36,246 - INFO - Opening MacBook
+2026-05-20 01:46:36,246 - INFO - Opening MacBook
+2026-05-20 01:46:43,898 - INFO - Selecting Processor Filter
+2026-05-20 01:46:43,898 - INFO - Selecting Processor Filter
+2026-05-20 01:46:43,898 - INFO - Selecting Processor Filter
+2026-05-20 01:46:53,160 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-20 01:46:53,160 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-20 01:46:53,160 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-20 01:47:08,737 - INFO - Invalid Filter Handled Successfully
+2026-05-20 01:47:08,737 - INFO - Invalid Filter Handled Successfully
+2026-05-20 01:47:08,737 - INFO - Invalid Filter Handled Successfully
+2026-05-20 01:47:08,829 - INFO - Negative Test Passed
+2026-05-20 01:47:08,829 - INFO - Negative Test Passed
+2026-05-20 01:47:08,829 - INFO - Negative Test Passed
+2026-05-20 01:47:12,120 - INFO - Opening BestBuy
+2026-05-20 01:47:12,120 - INFO - Opening BestBuy
+2026-05-20 01:47:12,120 - INFO - Opening BestBuy
+2026-05-20 01:47:13,273 - INFO - Selecting Country
+2026-05-20 01:47:13,273 - INFO - Selecting Country
+2026-05-20 01:47:13,273 - INFO - Selecting Country
+2026-05-20 01:47:15,901 - INFO - Opening Top Deals
+2026-05-20 01:47:15,901 - INFO - Opening Top Deals
+2026-05-20 01:47:15,901 - INFO - Opening Top Deals
+2026-05-20 01:47:26,901 - INFO - Opening Apple
+2026-05-20 01:47:26,901 - INFO - Opening Apple
+2026-05-20 01:47:26,901 - INFO - Opening Apple
+2026-05-20 01:47:34,553 - INFO - Opening MacBook
+2026-05-20 01:47:34,553 - INFO - Opening MacBook
+2026-05-20 01:47:34,553 - INFO - Opening MacBook
+2026-05-20 01:47:45,489 - INFO - Selecting Processor Filter
+2026-05-20 01:47:45,489 - INFO - Selecting Processor Filter
+2026-05-20 01:47:45,489 - INFO - Selecting Processor Filter
+2026-05-20 01:47:54,542 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-20 01:47:54,542 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-20 01:47:54,542 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-20 01:48:10,104 - INFO - Unsupported Filter Handled Successfully
+2026-05-20 01:48:10,104 - INFO - Unsupported Filter Handled Successfully
+2026-05-20 01:48:10,104 - INFO - Unsupported Filter Handled Successfully
+2026-05-20 01:48:10,202 - INFO - Negative Test Passed
+2026-05-20 01:48:10,202 - INFO - Negative Test Passed
+2026-05-20 01:48:10,202 - INFO - Negative Test Passed

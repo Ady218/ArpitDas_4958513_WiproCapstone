@@ -1,0 +1,9 @@
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:32 Opening BestBuy
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:36 Selecting Country
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:40 Opening Top Deals
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:44 Opening Apple
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:48 Opening MacBook
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:52 Selecting Processor Filter
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:62 Adding Product To Cart
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:70 Proceeding To Checkout
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:89 End To End Flow Passed

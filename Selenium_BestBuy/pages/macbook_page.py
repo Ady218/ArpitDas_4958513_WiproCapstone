@@ -114,11 +114,24 @@ class MacBookPage:
                 processor_checkbox
             )
 
-            time.sleep(6)
+            # time.sleep(6)
+            #
+            # self.driver.refresh()
+            #
+            # time.sleep(6)
+
+            time.sleep(2)
 
             self.driver.refresh()
 
-            time.sleep(6)
+            self.wait.until(
+                EC.presence_of_element_located(
+                    (
+                        By.XPATH,
+                        "//button[contains(@data-testid,'add-to-cart')]"
+                    )
+                )
+            )
 
             return True
 

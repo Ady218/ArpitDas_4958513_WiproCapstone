@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-@pytest.fixture()
+@pytest.fixture(scope = "function")
 def setup():
 
     options = webdriver.ChromeOptions()
@@ -34,6 +34,8 @@ def setup():
         ),
         options=options
     )
+    
+    driver.implicitly_wait(5)
 
     # ADD THIS
     driver.execute_script(
