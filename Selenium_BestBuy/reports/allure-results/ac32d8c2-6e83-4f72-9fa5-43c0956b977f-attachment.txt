@@ -1,9 +1,0 @@
-[32mINFO    [0m utilities.logger:test_negative_flow.py:49 Opening BestBuy
-[32mINFO    [0m utilities.logger:test_negative_flow.py:53 Selecting Country
-[32mINFO    [0m utilities.logger:test_negative_flow.py:57 Opening Top Deals
-[32mINFO    [0m utilities.logger:test_negative_flow.py:61 Opening Apple
-[32mINFO    [0m utilities.logger:test_negative_flow.py:65 Opening MacBook
-[32mINFO    [0m utilities.logger:test_negative_flow.py:69 Selecting Processor Filter
-[32mINFO    [0m utilities.logger:test_negative_flow.py:73 Selecting Invalid Processor: Apple M10
-[32mINFO    [0m utilities.logger:test_negative_flow.py:101 Unsupported Filter Handled Successfully
-[32mINFO    [0m utilities.logger:test_negative_flow.py:111 Negative Test Passed

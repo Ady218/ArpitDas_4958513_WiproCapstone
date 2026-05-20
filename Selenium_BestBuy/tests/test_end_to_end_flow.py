@@ -20,7 +20,6 @@ class TestEndToEndFlow:
             self,
             setup
     ):
-
         driver = setup
 
         home = HomePage(driver)
@@ -33,9 +32,15 @@ class TestEndToEndFlow:
 
         home.open_bestbuy()
 
+        # WEBSITE VALIDATION
+        assert "Best Buy" in home.get_title()
+
         self.logger.info("Selecting Country")
 
         home.click_country()
+
+        # HOMEPAGE VALIDATION
+        assert "bestbuy" in driver.current_url.lower()
 
         self.logger.info("Opening Top Deals")
 
@@ -45,14 +50,21 @@ class TestEndToEndFlow:
 
         home.click_apple()
 
+        # APPLE PAGE VALIDATION
+        assert "apple" in driver.page_source.lower()
+
         self.logger.info("Opening MacBook")
 
         macbook.click_macbook()
+
+        # MACBOOK PAGE VALIDATION
+        assert "macbook" in driver.page_source.lower()
 
         self.logger.info("Selecting Processor Filter")
 
         macbook.select_processor_filter()
 
+        # PROCESSOR VALIDATION
         processor_found = macbook.select_processor(
             "Apple M4"
         )
@@ -67,12 +79,16 @@ class TestEndToEndFlow:
 
         macbook.click_go_to_cart()
 
+        # CART VALIDATION
+        assert cart.verify_cart_item()
+
         self.logger.info("Proceeding To Checkout")
 
         cart.click_checkout()
 
         time.sleep(3)
 
+        # CHECKOUT VALIDATION
         assert (
                 "checkout" in driver.current_url.lower()
                 or
@@ -84,6 +100,12 @@ class TestEndToEndFlow:
 
         driver.save_screenshot(
             "screenshots/end_to_end_flow.png"
+        )
+
+        allure.attach.file(
+            "screenshots/end_to_end_flow.png",
+            name="End To End Flow",
+            attachment_type=allure.attachment_type.PNG
         )
 
         self.logger.info(

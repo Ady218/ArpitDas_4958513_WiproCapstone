@@ -1,9 +1,0 @@
-[32mINFO    [0m utilities.logger:test_scenarios.py:168 Opening BestBuy
-[32mINFO    [0m utilities.logger:test_scenarios.py:172 Selecting Country
-[32mINFO    [0m utilities.logger:test_scenarios.py:176 Opening Top Deals
-[32mINFO    [0m utilities.logger:test_scenarios.py:180 Opening Apple
-[32mINFO    [0m utilities.logger:test_scenarios.py:184 Opening MacBook
-[32mINFO    [0m utilities.logger:test_scenarios.py:188 Selecting Processor Filter
-[32mINFO    [0m utilities.logger:test_scenarios.py:192 Selecting Invalid Processor: Apple M10
-[32mINFO    [0m utilities.logger:test_scenarios.py:220 Unsupported Filter Handled Successfully
-[32mINFO    [0m utilities.logger:test_scenarios.py:230 Negative Test Passed

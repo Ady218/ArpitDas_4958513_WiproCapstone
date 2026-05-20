@@ -1,5 +1,9 @@
 from selenium.webdriver.common.by import By
 
+from selenium.webdriver.support.ui import WebDriverWait
+
+from selenium.webdriver.support import expected_conditions as EC
+
 
 class CartPage:
 
@@ -21,3 +25,40 @@ class CartPage:
         )
 
         checkout.click()
+
+    def enter_invalid_email(self, email):
+        email_box = WebDriverWait(
+            self.driver,
+            20
+        ).until(
+            EC.visibility_of_element_located(
+                (
+                    By.XPATH,
+                    "//input[@type='email' and @name='fld-e']"
+                )
+            )
+        )
+
+        email_box.clear()
+
+        email_box.send_keys(email)
+
+    def verify_invalid_email_error(self):
+        return (
+                "valid email" in self.driver.page_source.lower()
+        )
+
+    def click_continue(self):
+        continue_button = WebDriverWait(
+            self.driver,
+            20
+        ).until(
+            EC.element_to_be_clickable(
+                (
+                    By.XPATH,
+                    "//button[@data-track='Sign In: Continue']"
+                )
+            )
+        )
+
+        continue_button.click()

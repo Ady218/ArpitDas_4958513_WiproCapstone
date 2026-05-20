@@ -1,9 +1,0 @@
-[32mINFO    [0m utilities.logger:test_scenarios.py:59 Opening BestBuy
-[32mINFO    [0m utilities.logger:test_scenarios.py:63 Selecting Country
-[32mINFO    [0m utilities.logger:test_scenarios.py:67 Opening Top Deals
-[32mINFO    [0m utilities.logger:test_scenarios.py:71 Opening Apple
-[32mINFO    [0m utilities.logger:test_scenarios.py:75 Opening MacBook
-[32mINFO    [0m utilities.logger:test_scenarios.py:79 Selecting Processor Filter
-[32mINFO    [0m utilities.logger:test_scenarios.py:83 Selecting Processor: Apple M4
-[32mINFO    [0m utilities.logger:test_scenarios.py:101 Add To Cart Passed
-[32mINFO    [0m utilities.logger:test_scenarios.py:137 Positive Test Passed

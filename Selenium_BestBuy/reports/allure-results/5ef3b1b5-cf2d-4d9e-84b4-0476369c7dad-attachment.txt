@@ -1,9 +1,0 @@
-[32mINFO    [0m utilities.logger:test_positive_flow.py:54 Opening BestBuy
-[32mINFO    [0m utilities.logger:test_positive_flow.py:58 Selecting Country
-[32mINFO    [0m utilities.logger:test_positive_flow.py:62 Opening Top Deals
-[32mINFO    [0m utilities.logger:test_positive_flow.py:66 Opening Apple
-[32mINFO    [0m utilities.logger:test_positive_flow.py:70 Opening MacBook
-[32mINFO    [0m utilities.logger:test_positive_flow.py:74 Selecting Processor Filter
-[32mINFO    [0m utilities.logger:test_positive_flow.py:78 Selecting Processor: Apple M4
-[32mINFO    [0m utilities.logger:test_positive_flow.py:112 Checkout Flow Passed
-[32mINFO    [0m utilities.logger:test_positive_flow.py:132 Positive Test Passed
