@@ -51,3 +51,5 @@ class ReadConfig:
                 if "explicitWait" in line:
 
                     return line.split("=")[1].strip()
+
+

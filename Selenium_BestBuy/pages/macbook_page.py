@@ -34,14 +34,14 @@ class MacBookPage:
             macbook
         )
 
-        time.sleep(2)
+        time.sleep(1.3)
 
         self.driver.execute_script(
             "arguments[0].click();",
             macbook
         )
 
-        time.sleep(2)
+        time.sleep(1.3)
 
     def select_processor_filter(self):
         self.driver.execute_script(
@@ -91,7 +91,7 @@ class MacBookPage:
                 filter_panel
             )
 
-            time.sleep(5)
+            time.sleep(3)
 
             processor_checkbox = self.wait.until(
                 EC.element_to_be_clickable(
@@ -107,7 +107,7 @@ class MacBookPage:
                 processor_checkbox
             )
 
-            time.sleep(3)
+            time.sleep(2)
 
             self.driver.execute_script(
                 "arguments[0].click();",
@@ -171,11 +171,11 @@ class MacBookPage:
             add_to_cart
         )
 
-        time.sleep(3)
+        time.sleep(1.5)
 
         add_to_cart.click()
 
-        time.sleep(5)
+        time.sleep(2.2)
 
         return True
 
@@ -193,4 +193,4 @@ class MacBookPage:
 
         go_to_cart.click()
 
-        time.sleep(5)
+        time.sleep(3)

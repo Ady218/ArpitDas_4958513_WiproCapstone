@@ -4,3 +4,4 @@ webdriver-manager
 allure-pytest
 pytest-html
 openpyxl
+allure-python-commons

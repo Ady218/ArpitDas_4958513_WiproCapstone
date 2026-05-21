@@ -1,13 +1,21 @@
+# =========================================================
+# test_end_to_end_flow.py
+# =========================================================
+
 import os
 import time
 
 import allure
+from selenium.webdriver.common.by import By
 
 from pages.home_page import HomePage
 from pages.macbook_page import MacBookPage
 from pages.cart_page import CartPage
 
 from utilities.logger import LogGen
+from utilities.screenshot import Screenshot
+
+from datetime import datetime
 
 
 @allure.feature("BestBuy End To End Automation")
@@ -20,6 +28,7 @@ class TestEndToEndFlow:
             self,
             setup
     ):
+
         driver = setup
 
         home = HomePage(driver)
@@ -28,48 +37,112 @@ class TestEndToEndFlow:
 
         cart = CartPage(driver)
 
+        # =====================================================
+        # OPEN WEBSITE
+        # =====================================================
+
         self.logger.info("Opening BestBuy")
 
         home.open_bestbuy()
 
-        # WEBSITE VALIDATION
+        Screenshot.capture(
+            driver,
+            "01_Homepage_Opened"
+        )
+
         assert "Best Buy" in home.get_title()
+
+        # =====================================================
+        # SELECT COUNTRY
+        # =====================================================
 
         self.logger.info("Selecting Country")
 
         home.click_country()
 
-        # HOMEPAGE VALIDATION
+        Screenshot.capture(
+            driver,
+            "02_Country_Selected"
+        )
+
         assert "bestbuy" in driver.current_url.lower()
+
+        # =====================================================
+        # OPEN TOP DEALS
+        # =====================================================
 
         self.logger.info("Opening Top Deals")
 
         home.click_top_deals()
 
+        Screenshot.capture(
+            driver,
+            "03_Top_Deals_Page"
+        )
+
+        # =====================================================
+        # OPEN APPLE
+        # =====================================================
+
         self.logger.info("Opening Apple")
 
         home.click_apple()
 
-        # APPLE PAGE VALIDATION
+        Screenshot.capture(
+            driver,
+            "04_Apple_Page"
+        )
+
         assert "apple" in driver.page_source.lower()
+
+        # =====================================================
+        # OPEN MACBOOK
+        # =====================================================
 
         self.logger.info("Opening MacBook")
 
         macbook.click_macbook()
 
-        # MACBOOK PAGE VALIDATION
+        Screenshot.capture(
+            driver,
+            "05_MacBook_Page"
+        )
+
         assert "macbook" in driver.page_source.lower()
+
+        # =====================================================
+        # OPEN PROCESSOR FILTER
+        # =====================================================
 
         self.logger.info("Selecting Processor Filter")
 
         macbook.select_processor_filter()
 
-        # PROCESSOR VALIDATION
+        Screenshot.capture(
+            driver,
+            "06_Processor_Filter"
+        )
+
+        # =====================================================
+        # SELECT PROCESSOR
+        # =====================================================
+
+        self.logger.info("Selecting Apple M4 Processor")
+
         processor_found = macbook.select_processor(
             "Apple M4"
         )
 
+        Screenshot.capture(
+            driver,
+            "07_Processor_Selected"
+        )
+
         assert processor_found is True
+
+        # =====================================================
+        # ADD TO CART
+        # =====================================================
 
         self.logger.info("Adding Product To Cart")
 
@@ -77,36 +150,41 @@ class TestEndToEndFlow:
             "Apple M4"
         )
 
+        Screenshot.capture(
+            driver,
+            "08_Product_Added"
+        )
+
+        # =====================================================
+        # GO TO CART
+        # =====================================================
+
         macbook.click_go_to_cart()
 
-        # CART VALIDATION
+        Screenshot.capture(
+            driver,
+            "09_Cart_Page"
+        )
+
         assert cart.verify_cart_item()
+
+        # =====================================================
+        # CHECKOUT
+        # =====================================================
 
         self.logger.info("Proceeding To Checkout")
 
         cart.click_checkout()
 
-        time.sleep(3)
-
-        # CHECKOUT VALIDATION
-        assert (
-                "checkout" in driver.current_url.lower()
-                or
-                "signin" in driver.current_url.lower()
+        Screenshot.capture(
+            driver,
+            "10_Checkout_Page"
         )
 
-        if not os.path.exists("screenshots"):
-            os.makedirs("screenshots")
-
-        driver.save_screenshot(
-            "screenshots/end_to_end_flow.png"
-        )
-
-        allure.attach.file(
-            "screenshots/end_to_end_flow.png",
-            name="End To End Flow",
-            attachment_type=allure.attachment_type.PNG
-        )
+        assert driver.find_element(
+            By.XPATH,
+            "//input[@type='email']"
+        ).is_displayed()
 
         self.logger.info(
             "End To End Flow Passed"

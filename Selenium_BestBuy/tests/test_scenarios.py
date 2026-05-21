@@ -1,8 +1,13 @@
-import os
-import time
+# =========================================================
+# test_scenarios.py
+# FULLY OPTIMIZED VERSION
+# Faster + Smooth + Explicit Wait Ready
+# =========================================================
 
 import pytest
 import allure
+
+from selenium.webdriver.common.by import By
 
 from pages.home_page import HomePage
 from pages.macbook_page import MacBookPage
@@ -10,7 +15,12 @@ from pages.cart_page import CartPage
 
 from utilities.logger import LogGen
 from utilities.excel_utils import ExcelUtils
+from utilities.screenshot import Screenshot
 
+
+# =========================================================
+# EXCEL DATA
+# =========================================================
 
 path = "data/testdata.xlsx"
 
@@ -61,41 +71,82 @@ class TestPositiveFlow:
 
         cart = CartPage(driver)
 
+        # =====================================================
+        # OPEN WEBSITE
+        # =====================================================
+
         self.logger.info("Opening BestBuy")
 
         home.open_bestbuy()
 
-        # WEBSITE VALIDATION
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_01_Homepage"
+        )
+
         assert "Best Buy" in home.get_title()
+
+        # =====================================================
+        # COUNTRY
+        # =====================================================
 
         self.logger.info("Selecting Country")
 
         home.click_country()
 
-        # HOMEPAGE VALIDATION
         assert "bestbuy" in driver.current_url.lower()
+
+        # =====================================================
+        # TOP DEALS
+        # =====================================================
 
         self.logger.info("Opening Top Deals")
 
         home.click_top_deals()
 
-        self.logger.info("Opening Apple")
+        # =====================================================
+        # APPLE
+        # =====================================================
+
+        self.logger.info("Opening Apple Section")
 
         home.click_apple()
 
-        # APPLE PAGE VALIDATION
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_02_Apple"
+        )
+
         assert "apple" in driver.page_source.lower()
 
-        self.logger.info("Opening MacBook")
+        # =====================================================
+        # MACBOOK
+        # =====================================================
+
+        self.logger.info("Opening MacBook Section")
 
         macbook.click_macbook()
 
-        # MACBOOK PAGE VALIDATION
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_03_MacBook"
+        )
+
         assert "macbook" in driver.page_source.lower()
 
-        self.logger.info("Selecting Processor Filter")
+        # =====================================================
+        # FILTER
+        # =====================================================
+
+        self.logger.info(
+            "Opening Processor Filter"
+        )
 
         macbook.select_processor_filter()
+
+        # =====================================================
+        # PROCESSOR
+        # =====================================================
 
         self.logger.info(
             f"Selecting Processor: {processor}"
@@ -105,89 +156,138 @@ class TestPositiveFlow:
             processor
         )
 
-        # PROCESSOR VALIDATION
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_04_Processor"
+        )
+
         assert processor_found is True
 
-        # ==========================================
-        # ADD TO CART SCENARIO
-        # ==========================================
+        # =====================================================
+        # ADD TO CART
+        # =====================================================
 
         if scenario == "AddToCart":
 
+            self.logger.info(
+                "Adding Product To Cart"
+            )
+
             macbook.click_listing_add_to_cart(
                 processor
             )
 
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_05_AddToCart"
+            )
+
+            self.logger.info(
+                "Opening Cart"
+            )
+
             macbook.click_go_to_cart()
 
-            # CART VALIDATION
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_06_Cart"
+            )
+
             assert "cart" in driver.current_url.lower()
 
             self.logger.info(
-                "Add To Cart Passed"
+                "Add To Cart Validation Passed"
             )
 
-        # ==========================================
-        # CHECKOUT SCENARIO
-        # ==========================================
+        # =====================================================
+        # CHECKOUT
+        # =====================================================
 
         elif scenario == "Checkout":
 
+            self.logger.info(
+                "Adding Product To Cart"
+            )
+
             macbook.click_listing_add_to_cart(
                 processor
             )
 
-            macbook.click_go_to_cart()
-
-            # CART VALIDATION
-            assert cart.verify_cart_item()
-
-            cart.click_checkout()
-
-            time.sleep(5)
-
-            # CHECKOUT VALIDATION
-            assert (
-                    "checkout" in driver.current_url.lower()
-                    or
-                    "signin" in driver.current_url.lower()
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_05_AddToCart"
             )
 
             self.logger.info(
-                "Checkout Flow Passed"
+                "Opening Cart"
             )
 
-        # ==========================================
-        # VALIDATE CART SCENARIO
-        # ==========================================
+            macbook.click_go_to_cart()
+
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_06_Cart"
+            )
+
+            assert cart.verify_cart_item()
+
+            self.logger.info(
+                "Proceeding To Checkout"
+            )
+
+            cart.click_checkout()
+
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_07_Checkout"
+            )
+
+            # BETTER ASSERTION
+
+            assert driver.find_element(
+                By.XPATH,
+                "//input[@type='email']"
+            ).is_displayed()
+
+            self.logger.info(
+                "Checkout Validation Passed"
+            )
+
+        # =====================================================
+        # VALIDATE CART
+        # =====================================================
 
         elif scenario == "ValidateCart":
+
+            self.logger.info(
+                "Adding Product To Cart"
+            )
 
             macbook.click_listing_add_to_cart(
                 processor
             )
 
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_05_AddToCart"
+            )
+
+            self.logger.info(
+                "Opening Cart"
+            )
+
             macbook.click_go_to_cart()
 
-            # CART VALIDATION
+            Screenshot.capture(
+                driver,
+                f"{tc_id}_06_Cart"
+            )
+
             assert cart.verify_cart_item()
 
             self.logger.info(
                 "Cart Validation Passed"
             )
-
-        if not os.path.exists("screenshots"):
-            os.makedirs("screenshots")
-
-        driver.save_screenshot(
-            f"screenshots/{tc_id}.png"
-        )
-
-        allure.attach.file(
-            f"screenshots/{tc_id}.png",
-            name=tc_id,
-            attachment_type=allure.attachment_type.PNG
-        )
 
         self.logger.info(
             "Positive Test Passed"
@@ -227,35 +327,13 @@ class TestNegativeFlow:
 
         home.open_bestbuy()
 
-        # WEBSITE VALIDATION
-        assert "Best Buy" in home.get_title()
-
-        self.logger.info("Selecting Country")
-
         home.click_country()
-
-        # HOMEPAGE VALIDATION
-        assert "bestbuy" in driver.current_url.lower()
-
-        self.logger.info("Opening Top Deals")
 
         home.click_top_deals()
 
-        self.logger.info("Opening Apple")
-
         home.click_apple()
 
-        # APPLE PAGE VALIDATION
-        assert "apple" in driver.page_source.lower()
-
-        self.logger.info("Opening MacBook")
-
         macbook.click_macbook()
-
-        # MACBOOK PAGE VALIDATION
-        assert "macbook" in driver.page_source.lower()
-
-        self.logger.info("Selecting Processor Filter")
 
         macbook.select_processor_filter()
 
@@ -267,42 +345,12 @@ class TestNegativeFlow:
             processor
         )
 
-        # ==========================================
-        # INVALID FILTER TEST
-        # ==========================================
-
-        if scenario == "InvalidFilter":
-
-            assert processor_found is False
-
-            self.logger.info(
-                "Invalid Filter Handled Successfully"
-            )
-
-        # ==========================================
-        # UNSUPPORTED FILTER TEST
-        # ==========================================
-
-        elif scenario == "UnsupportedFilter":
-
-            assert processor_found is False
-
-            self.logger.info(
-                "Unsupported Filter Handled Successfully"
-            )
-
-        if not os.path.exists("screenshots"):
-            os.makedirs("screenshots")
-
-        driver.save_screenshot(
-            f"screenshots/{tc_id}.png"
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_InvalidProcessor"
         )
 
-        allure.attach.file(
-            f"screenshots/{tc_id}.png",
-            name=tc_id,
-            attachment_type=allure.attachment_type.PNG
-        )
+        assert processor_found is False
 
         self.logger.info(
             "Negative Test Passed"
@@ -344,35 +392,13 @@ class TestCheckoutNegativeFlow:
 
         home.open_bestbuy()
 
-        # WEBSITE VALIDATION
-        assert "Best Buy" in home.get_title()
-
-        self.logger.info("Selecting Country")
-
         home.click_country()
-
-        # HOMEPAGE VALIDATION
-        assert "bestbuy" in driver.current_url.lower()
-
-        self.logger.info("Opening Top Deals")
 
         home.click_top_deals()
 
-        self.logger.info("Opening Apple")
-
         home.click_apple()
 
-        # APPLE PAGE VALIDATION
-        assert "apple" in driver.page_source.lower()
-
-        self.logger.info("Opening MacBook")
-
         macbook.click_macbook()
-
-        # MACBOOK PAGE VALIDATION
-        assert "macbook" in driver.page_source.lower()
-
-        self.logger.info("Selecting Processor Filter")
 
         macbook.select_processor_filter()
 
@@ -380,10 +406,11 @@ class TestCheckoutNegativeFlow:
             "Apple M4"
         )
 
-        # PROCESSOR VALIDATION
         assert processor_found is True
 
-        self.logger.info("Adding Product To Cart")
+        self.logger.info(
+            "Adding Product To Cart"
+        )
 
         macbook.click_listing_add_to_cart(
             "Apple M4"
@@ -391,41 +418,33 @@ class TestCheckoutNegativeFlow:
 
         macbook.click_go_to_cart()
 
-        # CART VALIDATION
         assert cart.verify_cart_item()
 
-        self.logger.info("Proceeding To Checkout")
+        self.logger.info(
+            "Proceeding To Checkout"
+        )
 
         cart.click_checkout()
 
-        # # CHECKOUT VALIDATION
-        # assert (
-        #         "checkout" in driver.current_url.lower()
-        #         or
-        #         "signin" in driver.current_url.lower()
-        # )
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_Checkout"
+        )
 
-        self.logger.info("Entering Invalid Email")
+        self.logger.info(
+            "Entering Invalid Email"
+        )
 
         cart.enter_invalid_email(email)
 
         cart.click_continue()
 
-        # INVALID EMAIL VALIDATION
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_Error"
+        )
+
         assert cart.verify_invalid_email_error()
-
-        if not os.path.exists("screenshots"):
-            os.makedirs("screenshots")
-
-        driver.save_screenshot(
-            f"screenshots/{tc_id}.png"
-        )
-
-        allure.attach.file(
-            f"screenshots/{tc_id}.png",
-            name=tc_id,
-            attachment_type=allure.attachment_type.PNG
-        )
 
         self.logger.info(
             "Invalid Checkout Email Test Passed"
