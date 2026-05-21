@@ -32,7 +32,6 @@ class CartPage:
     # =====================================================
 
     def click_checkout(self):
-
         checkout = WebDriverWait(
             self.driver,
             20
@@ -68,6 +67,47 @@ class CartPage:
         self.driver.execute_script(
             "arguments[0].click();",
             checkout
+        )
+
+        # =====================================================
+        # WAIT FOR CHECKOUT PAGE FULLY LOAD
+        # =====================================================
+
+        # Wait Email Field Visible
+        WebDriverWait(
+            self.driver,
+            20
+        ).until(
+            EC.visibility_of_element_located(
+                (
+                    By.XPATH,
+                    "//input[@type='email']"
+                )
+            )
+        )
+
+        # Wait Continue Button Visible
+        WebDriverWait(
+            self.driver,
+            20
+        ).until(
+            EC.visibility_of_element_located(
+                (
+                    By.XPATH,
+                    "//button[@data-track='Sign In: Continue']"
+                )
+            )
+        )
+
+        # Wait Full DOM Load
+        WebDriverWait(
+            self.driver,
+            20
+        ).until(
+            lambda driver:
+            driver.execute_script(
+                "return document.readyState"
+            ) == "complete"
         )
 
     # =====================================================

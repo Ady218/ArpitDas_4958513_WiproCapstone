@@ -1,0 +1,20 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m utilities.logger:test_scenarios.py:83 Opening BestBuy
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_01_Homepage_20260521_230237.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:98 Selecting Country
+[32mINFO    [0m utilities.logger:test_scenarios.py:108 Opening Top Deals
+[32mINFO    [0m utilities.logger:test_scenarios.py:116 Opening Apple Section
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_02_Apple_20260521_230258.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:131 Opening MacBook Section
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_03_MacBook_20260521_230311.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:146 Opening Processor Filter
+[32mINFO    [0m utilities.logger:test_scenarios.py:156 Selecting Processor: Apple M4
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_04_Processor_20260521_230333.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:177 Adding Product To Cart
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_05_AddToCart_20260521_230337.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:190 Opening Cart
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_01_06_Cart_20260521_230345.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:203 Add To Cart Validation Passed
+[32mINFO    [0m utilities.logger:test_scenarios.py:297 Positive Test Passed

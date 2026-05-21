@@ -1,7 +1,0 @@
-[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
-[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
-[32mINFO    [0m utilities.logger:test_scenarios.py:326 Opening BestBuy
-[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
-[32mINFO    [0m utilities.logger:test_scenarios.py:340 Selecting Invalid Processor: Invalid Processor
-[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_05_InvalidProcessor_20260521_175440.png
-[32mINFO    [0m utilities.logger:test_scenarios.py:355 Negative Test Passed

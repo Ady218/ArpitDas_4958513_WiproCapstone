@@ -39,6 +39,11 @@ checkout_negative_data = ExcelUtils.get_all_data(
     "CheckoutNegativeData"
 )
 
+navigation_data = ExcelUtils.get_all_data(
+    path,
+    "NavigationData"
+)
+
 
 # =========================================================
 # POSITIVE FLOW
@@ -323,19 +328,77 @@ class TestNegativeFlow:
 
         macbook = MacBookPage(driver)
 
+        # =====================================================
+        # HOMEPAGE
+        # =====================================================
+
         self.logger.info("Opening BestBuy")
 
         home.open_bestbuy()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_01_Homepage"
+        )
+
+        # =====================================================
+        # COUNTRY
+        # =====================================================
+
         home.click_country()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_02_Country"
+        )
+
+        # =====================================================
+        # TOP DEALS
+        # =====================================================
 
         home.click_top_deals()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_03_TopDeals"
+        )
+
+        # =====================================================
+        # APPLE
+        # =====================================================
+
         home.click_apple()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_04_Apple"
+        )
+
+        # =====================================================
+        # MACBOOK
+        # =====================================================
 
         macbook.click_macbook()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_05_MacBook"
+        )
+
+        # =====================================================
+        # FILTER
+        # =====================================================
+
         macbook.select_processor_filter()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_06_Filter"
+        )
+
+        # =====================================================
+        # INVALID PROCESSOR
+        # =====================================================
 
         self.logger.info(
             f"Selecting Invalid Processor: {processor}"
@@ -347,7 +410,7 @@ class TestNegativeFlow:
 
         Screenshot.capture(
             driver,
-            f"{tc_id}_InvalidProcessor"
+            f"{tc_id}_07_InvalidProcessor"
         )
 
         assert processor_found is False
@@ -388,48 +451,129 @@ class TestCheckoutNegativeFlow:
 
         cart = CartPage(driver)
 
+        # =====================================================
+        # HOMEPAGE
+        # =====================================================
+
         self.logger.info("Opening BestBuy")
 
         home.open_bestbuy()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_01_Homepage"
+        )
+
+        # =====================================================
+        # COUNTRY
+        # =====================================================
+
         home.click_country()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_02_Country"
+        )
+
+        # =====================================================
+        # TOP DEALS
+        # =====================================================
 
         home.click_top_deals()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_03_TopDeals"
+        )
+
+        # =====================================================
+        # APPLE
+        # =====================================================
+
         home.click_apple()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_04_Apple"
+        )
+
+        # =====================================================
+        # MACBOOK
+        # =====================================================
 
         macbook.click_macbook()
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_05_MacBook"
+        )
+
+        # =====================================================
+        # FILTER
+        # =====================================================
+
         macbook.select_processor_filter()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_06_Filter"
+        )
+
+        # =====================================================
+        # PROCESSOR
+        # =====================================================
 
         processor_found = macbook.select_processor(
             "Apple M4"
         )
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_07_Processor"
+        )
+
         assert processor_found is True
 
-        self.logger.info(
-            "Adding Product To Cart"
-        )
+        # =====================================================
+        # ADD TO CART
+        # =====================================================
 
         macbook.click_listing_add_to_cart(
             "Apple M4"
         )
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_08_AddToCart"
+        )
+
+        # =====================================================
+        # CART
+        # =====================================================
+
         macbook.click_go_to_cart()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_09_Cart"
+        )
 
         assert cart.verify_cart_item()
 
-        self.logger.info(
-            "Proceeding To Checkout"
-        )
+        # =====================================================
+        # CHECKOUT
+        # =====================================================
 
         cart.click_checkout()
 
         Screenshot.capture(
             driver,
-            f"{tc_id}_Checkout"
+            f"{tc_id}_10_Checkout"
         )
+
+        # =====================================================
+        # INVALID EMAIL
+        # =====================================================
 
         self.logger.info(
             "Entering Invalid Email"
@@ -437,15 +581,141 @@ class TestCheckoutNegativeFlow:
 
         cart.enter_invalid_email(email)
 
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_11_InvalidEmail"
+        )
+
+        # =====================================================
+        # CONTINUE
+        # =====================================================
+
         cart.click_continue()
 
         Screenshot.capture(
             driver,
-            f"{tc_id}_Error"
+            f"{tc_id}_12_Error"
         )
 
         assert cart.verify_invalid_email_error()
 
         self.logger.info(
             "Invalid Checkout Email Test Passed"
+        )
+
+# =========================================================
+# NAVIGATION FLOW
+# =========================================================
+
+@allure.feature("BestBuy Navigation Automation")
+class TestNavigationFlow:
+
+    logger = LogGen.loggen()
+
+    @pytest.mark.parametrize(
+        "tc_id, scenario",
+        navigation_data
+    )
+
+    @allure.title(
+        "Validate Apple Navigation"
+    )
+
+    def test_navigation_flow(
+            self,
+            setup,
+            tc_id,
+            scenario
+    ):
+
+        driver = setup
+
+        home = HomePage(driver)
+
+        # =====================================================
+        # OPEN WEBSITE
+        # =====================================================
+
+        self.logger.info(
+            "Opening BestBuy"
+        )
+
+        home.open_bestbuy()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_01_Homepage"
+        )
+
+        assert "Best Buy" in home.get_title()
+
+        self.logger.info(
+            "Homepage Validation Passed"
+        )
+
+        # =====================================================
+        # SELECT COUNTRY
+        # =====================================================
+
+        self.logger.info(
+            "Selecting Country"
+        )
+
+        home.click_country()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_02_Country"
+        )
+
+        assert "bestbuy" in driver.current_url.lower()
+
+        self.logger.info(
+            "Country Validation Passed"
+        )
+
+        # =====================================================
+        # TOP DEALS
+        # =====================================================
+
+        self.logger.info(
+            "Opening Top Deals"
+        )
+
+        home.click_top_deals()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_03_TopDeals"
+        )
+
+        assert "top deals" in driver.page_source.lower()
+
+        self.logger.info(
+            "Top Deals Validation Passed"
+        )
+
+        # =====================================================
+        # APPLE
+        # =====================================================
+
+        self.logger.info(
+            "Opening Apple Section"
+        )
+
+        home.click_apple()
+
+        Screenshot.capture(
+            driver,
+            f"{tc_id}_04_Apple"
+        )
+
+        assert "apple" in driver.page_source.lower()
+
+        self.logger.info(
+            "Apple Navigation Validation Passed"
+        )
+
+        self.logger.info(
+            "TC_08 Passed Successfully"
         )
