@@ -1,8 +1,3 @@
-# =========================================================
-# test_scenarios.py
-# FULLY OPTIMIZED VERSION
-# Faster + Smooth + Explicit Wait Ready
-# =========================================================
 
 import pytest
 import allure

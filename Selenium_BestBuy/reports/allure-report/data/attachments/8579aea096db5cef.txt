@@ -1,0 +1,18 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m utilities.logger:test_scenarios.py:453 Opening BestBuy
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_01_Homepage_20260522_162931.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_02_Country_20260522_162935.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_03_TopDeals_20260522_162944.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_04_Apple_20260522_162948.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_05_MacBook_20260522_163000.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_06_Filter_20260522_163009.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_07_Processor_20260522_163021.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_08_AddToCart_20260522_163025.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_09_Cart_20260522_163033.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_10_Checkout_20260522_163038.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:573 Entering Invalid Email
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_11_InvalidEmail_20260522_163038.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_07_12_Error_20260522_163038.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:597 Invalid Checkout Email Test Passed

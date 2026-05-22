@@ -1,0 +1,9 @@
+allure-python-commons
+selenium
+behave
+webdriver-manager
+allure-behave
+pytest
+openpyxl
+configparser
+gherkin-official

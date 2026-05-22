@@ -1,8 +1,8 @@
 import time
 
-from selenium.webdriver.common.keys import Keys
+# from selenium.webdriver.common.keys import Keys
 
-from selenium.webdriver.common.action_chains import ActionChains
+# from selenium.webdriver.common.action_chains import ActionChains
 
 from selenium.webdriver.common.by import By
 
@@ -114,11 +114,7 @@ class MacBookPage:
                 processor_checkbox
             )
 
-            # time.sleep(6)
-            #
-            # self.driver.refresh()
-            #
-            # time.sleep(6)
+            
 
             time.sleep(2)
 

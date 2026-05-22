@@ -155,6 +155,28 @@ def setup():
 # AUTOMATIC ALLURE REPORT OPEN
 # =========================================================
 
+# def pytest_unconfigure(config):
+#
+#     print(
+#         "\n=========================================="
+#     )
+#
+#     print(
+#         "TESTS COMPLETED SUCCESSFULLY"
+#     )
+#
+#     print(
+#         "OPENING ALLURE REPORT..."
+#     )
+#
+#     print(
+#         "==========================================\n"
+#     )
+#
+#     os.system(
+#         "allure serve reports/allure-results"
+#     )
+
 def pytest_unconfigure(config):
 
     print(
@@ -166,13 +188,20 @@ def pytest_unconfigure(config):
     )
 
     print(
-        "OPENING ALLURE REPORT..."
+        "GENERATING ALLURE REPORT..."
     )
 
     print(
         "==========================================\n"
     )
 
+    # Generate permanent report
     os.system(
-        "allure serve reports/allure-results"
+        "allure generate reports/allure-results "
+        "-o reports/allure-report --clean"
+    )
+
+    # Open report in browser
+    os.system(
+        "allure open reports/allure-report"
     )

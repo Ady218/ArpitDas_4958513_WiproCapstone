@@ -1,138 +1,138 @@
-2026-05-21 23:01:07,235 - INFO - Opening BestBuy
-2026-05-21 23:01:14,117 - INFO - Screenshot saved at: reports/screenshots/01_Homepage_Opened_20260521_230113.png
-2026-05-21 23:01:14,184 - INFO - Selecting Country
-2026-05-21 23:01:18,558 - INFO - Screenshot saved at: reports/screenshots/02_Country_Selected_20260521_230117.png
-2026-05-21 23:01:18,640 - INFO - Opening Top Deals
-2026-05-21 23:01:25,903 - INFO - Screenshot saved at: reports/screenshots/03_Top_Deals_Page_20260521_230125.png
-2026-05-21 23:01:25,905 - INFO - Opening Apple
-2026-05-21 23:01:30,713 - INFO - Screenshot saved at: reports/screenshots/04_Apple_Page_20260521_230130.png
-2026-05-21 23:01:34,790 - INFO - Opening MacBook
-2026-05-21 23:01:44,542 - INFO - Screenshot saved at: reports/screenshots/05_MacBook_Page_20260521_230144.png
-2026-05-21 23:01:44,639 - INFO - Selecting Processor Filter
-2026-05-21 23:01:53,747 - INFO - Screenshot saved at: reports/screenshots/06_Processor_Filter_20260521_230153.png
-2026-05-21 23:01:53,748 - INFO - Selecting Apple M4 Processor
-2026-05-21 23:02:05,541 - INFO - Screenshot saved at: reports/screenshots/07_Processor_Selected_20260521_230205.png
-2026-05-21 23:02:05,548 - INFO - Adding Product To Cart
-2026-05-21 23:02:09,521 - INFO - Screenshot saved at: reports/screenshots/08_Product_Added_20260521_230209.png
-2026-05-21 23:02:22,663 - INFO - Screenshot saved at: reports/screenshots/09_Cart_Page_20260521_230222.png
-2026-05-21 23:02:22,725 - INFO - Proceeding To Checkout
-2026-05-21 23:02:27,020 - INFO - Screenshot saved at: reports/screenshots/10_Checkout_Page_20260521_230226.png
-2026-05-21 23:02:27,031 - INFO - End To End Flow Passed
-2026-05-21 23:02:30,896 - INFO - Opening BestBuy
-2026-05-21 23:02:37,483 - INFO - Screenshot saved at: reports/screenshots/TC_01_01_Homepage_20260521_230237.png
-2026-05-21 23:02:37,557 - INFO - Selecting Country
-2026-05-21 23:02:42,259 - INFO - Opening Top Deals
-2026-05-21 23:02:53,052 - INFO - Opening Apple Section
-2026-05-21 23:02:59,180 - INFO - Screenshot saved at: reports/screenshots/TC_01_02_Apple_20260521_230258.png
-2026-05-21 23:02:59,328 - INFO - Opening MacBook Section
-2026-05-21 23:03:11,610 - INFO - Screenshot saved at: reports/screenshots/TC_01_03_MacBook_20260521_230311.png
-2026-05-21 23:03:11,697 - INFO - Opening Processor Filter
-2026-05-21 23:03:20,732 - INFO - Selecting Processor: Apple M4
-2026-05-21 23:03:33,573 - INFO - Screenshot saved at: reports/screenshots/TC_01_04_Processor_20260521_230333.png
-2026-05-21 23:03:33,576 - INFO - Adding Product To Cart
-2026-05-21 23:03:37,685 - INFO - Screenshot saved at: reports/screenshots/TC_01_05_AddToCart_20260521_230337.png
-2026-05-21 23:03:37,687 - INFO - Opening Cart
-2026-05-21 23:03:45,291 - INFO - Screenshot saved at: reports/screenshots/TC_01_06_Cart_20260521_230345.png
-2026-05-21 23:03:45,296 - INFO - Add To Cart Validation Passed
-2026-05-21 23:03:45,296 - INFO - Positive Test Passed
-2026-05-21 23:03:49,158 - INFO - Opening BestBuy
-2026-05-21 23:03:55,563 - INFO - Screenshot saved at: reports/screenshots/TC_02_01_Homepage_20260521_230355.png
-2026-05-21 23:03:55,627 - INFO - Selecting Country
-2026-05-21 23:04:00,274 - INFO - Opening Top Deals
-2026-05-21 23:04:11,540 - INFO - Opening Apple Section
-2026-05-21 23:04:16,811 - INFO - Screenshot saved at: reports/screenshots/TC_02_02_Apple_20260521_230416.png
-2026-05-21 23:04:16,947 - INFO - Opening MacBook Section
-2026-05-21 23:04:28,618 - INFO - Screenshot saved at: reports/screenshots/TC_02_03_MacBook_20260521_230428.png
-2026-05-21 23:04:28,713 - INFO - Opening Processor Filter
-2026-05-21 23:04:37,739 - INFO - Selecting Processor: Apple M3
-2026-05-21 23:04:50,330 - INFO - Screenshot saved at: reports/screenshots/TC_02_04_Processor_20260521_230449.png
-2026-05-21 23:04:50,332 - INFO - Adding Product To Cart
-2026-05-21 23:04:55,085 - INFO - Screenshot saved at: reports/screenshots/TC_02_05_AddToCart_20260521_230454.png
-2026-05-21 23:04:55,086 - INFO - Opening Cart
-2026-05-21 23:05:03,582 - INFO - Screenshot saved at: reports/screenshots/TC_02_06_Cart_20260521_230503.png
-2026-05-21 23:05:03,620 - INFO - Add To Cart Validation Passed
-2026-05-21 23:05:03,620 - INFO - Positive Test Passed
-2026-05-21 23:05:07,715 - INFO - Opening BestBuy
-2026-05-21 23:05:14,251 - INFO - Screenshot saved at: reports/screenshots/TC_03_01_Homepage_20260521_230513.png
-2026-05-21 23:05:14,347 - INFO - Selecting Country
-2026-05-21 23:05:17,608 - INFO - Opening Top Deals
-2026-05-21 23:05:26,627 - INFO - Opening Apple Section
-2026-05-21 23:05:31,932 - INFO - Screenshot saved at: reports/screenshots/TC_03_02_Apple_20260521_230531.png
-2026-05-21 23:05:32,114 - INFO - Opening MacBook Section
-2026-05-21 23:05:47,737 - INFO - Screenshot saved at: reports/screenshots/TC_03_03_MacBook_20260521_230547.png
-2026-05-21 23:05:47,839 - INFO - Opening Processor Filter
-2026-05-21 23:05:56,889 - INFO - Selecting Processor: Apple M4
-2026-05-21 23:06:09,678 - INFO - Screenshot saved at: reports/screenshots/TC_03_04_Processor_20260521_230609.png
-2026-05-21 23:06:09,680 - INFO - Adding Product To Cart
-2026-05-21 23:06:13,621 - INFO - Screenshot saved at: reports/screenshots/TC_03_05_AddToCart_20260521_230613.png
-2026-05-21 23:06:13,622 - INFO - Opening Cart
-2026-05-21 23:06:21,526 - INFO - Screenshot saved at: reports/screenshots/TC_03_06_Cart_20260521_230621.png
-2026-05-21 23:06:21,591 - INFO - Proceeding To Checkout
-2026-05-21 23:06:25,272 - INFO - Screenshot saved at: reports/screenshots/TC_03_07_Checkout_20260521_230625.png
-2026-05-21 23:06:25,281 - INFO - Checkout Validation Passed
-2026-05-21 23:06:25,282 - INFO - Positive Test Passed
-2026-05-21 23:06:29,177 - INFO - Opening BestBuy
-2026-05-21 23:06:35,581 - INFO - Screenshot saved at: reports/screenshots/TC_04_01_Homepage_20260521_230635.png
-2026-05-21 23:06:35,659 - INFO - Selecting Country
-2026-05-21 23:06:39,295 - INFO - Opening Top Deals
-2026-05-21 23:06:46,625 - INFO - Opening Apple Section
-2026-05-21 23:06:51,091 - INFO - Screenshot saved at: reports/screenshots/TC_04_02_Apple_20260521_230650.png
-2026-05-21 23:06:51,226 - INFO - Opening MacBook Section
-2026-05-21 23:07:03,091 - INFO - Screenshot saved at: reports/screenshots/TC_04_03_MacBook_20260521_230702.png
-2026-05-21 23:07:03,202 - INFO - Opening Processor Filter
-2026-05-21 23:07:12,235 - INFO - Selecting Processor: Apple M3
-2026-05-21 23:07:24,265 - INFO - Screenshot saved at: reports/screenshots/TC_04_04_Processor_20260521_230723.png
-2026-05-21 23:07:24,269 - INFO - Adding Product To Cart
-2026-05-21 23:07:28,221 - INFO - Screenshot saved at: reports/screenshots/TC_04_05_AddToCart_20260521_230728.png
-2026-05-21 23:07:28,222 - INFO - Opening Cart
-2026-05-21 23:07:36,841 - INFO - Screenshot saved at: reports/screenshots/TC_04_06_Cart_20260521_230736.png
-2026-05-21 23:07:36,887 - INFO - Cart Validation Passed
-2026-05-21 23:07:36,887 - INFO - Positive Test Passed
-2026-05-21 23:07:40,810 - INFO - Opening BestBuy
-2026-05-21 23:07:47,217 - INFO - Screenshot saved at: reports/screenshots/TC_05_01_Homepage_20260521_230746.png
-2026-05-21 23:07:51,218 - INFO - Screenshot saved at: reports/screenshots/TC_05_02_Country_20260521_230750.png
-2026-05-21 23:07:58,534 - INFO - Screenshot saved at: reports/screenshots/TC_05_03_TopDeals_20260521_230758.png
-2026-05-21 23:08:05,084 - INFO - Screenshot saved at: reports/screenshots/TC_05_04_Apple_20260521_230804.png
-2026-05-21 23:08:15,174 - INFO - Screenshot saved at: reports/screenshots/TC_05_05_MacBook_20260521_230814.png
-2026-05-21 23:08:24,305 - INFO - Screenshot saved at: reports/screenshots/TC_05_06_Filter_20260521_230824.png
-2026-05-21 23:08:24,305 - INFO - Selecting Invalid Processor: Invalid Processor
-2026-05-21 23:08:37,938 - INFO - Screenshot saved at: reports/screenshots/TC_05_07_InvalidProcessor_20260521_230837.png
-2026-05-21 23:08:37,939 - INFO - Negative Test Passed
-2026-05-21 23:08:41,694 - INFO - Opening BestBuy
-2026-05-21 23:08:48,291 - INFO - Screenshot saved at: reports/screenshots/TC_06_01_Homepage_20260521_230848.png
-2026-05-21 23:08:51,274 - INFO - Screenshot saved at: reports/screenshots/TC_06_02_Country_20260521_230851.png
-2026-05-21 23:09:03,322 - INFO - Screenshot saved at: reports/screenshots/TC_06_03_TopDeals_20260521_230903.png
-2026-05-21 23:09:08,234 - INFO - Screenshot saved at: reports/screenshots/TC_06_04_Apple_20260521_230907.png
-2026-05-21 23:09:24,874 - INFO - Screenshot saved at: reports/screenshots/TC_06_05_MacBook_20260521_230924.png
-2026-05-21 23:09:34,070 - INFO - Screenshot saved at: reports/screenshots/TC_06_06_Filter_20260521_230933.png
-2026-05-21 23:09:34,072 - INFO - Selecting Invalid Processor: Apple M10
-2026-05-21 23:09:47,790 - INFO - Screenshot saved at: reports/screenshots/TC_06_07_InvalidProcessor_20260521_230947.png
-2026-05-21 23:09:47,791 - INFO - Negative Test Passed
-2026-05-21 23:09:51,770 - INFO - Opening BestBuy
-2026-05-21 23:09:58,253 - INFO - Screenshot saved at: reports/screenshots/TC_07_01_Homepage_20260521_230957.png
-2026-05-21 23:10:03,769 - INFO - Screenshot saved at: reports/screenshots/TC_07_02_Country_20260521_231003.png
-2026-05-21 23:10:14,739 - INFO - Screenshot saved at: reports/screenshots/TC_07_03_TopDeals_20260521_231014.png
-2026-05-21 23:10:21,174 - INFO - Screenshot saved at: reports/screenshots/TC_07_04_Apple_20260521_231020.png
-2026-05-21 23:10:33,417 - INFO - Screenshot saved at: reports/screenshots/TC_07_05_MacBook_20260521_231033.png
-2026-05-21 23:10:42,528 - INFO - Screenshot saved at: reports/screenshots/TC_07_06_Filter_20260521_231042.png
-2026-05-21 23:10:58,235 - INFO - Screenshot saved at: reports/screenshots/TC_07_07_Processor_20260521_231058.png
-2026-05-21 23:11:02,370 - INFO - Screenshot saved at: reports/screenshots/TC_07_08_AddToCart_20260521_231102.png
-2026-05-21 23:11:10,998 - INFO - Screenshot saved at: reports/screenshots/TC_07_09_Cart_20260521_231109.png
-2026-05-21 23:11:14,781 - INFO - Screenshot saved at: reports/screenshots/TC_07_10_Checkout_20260521_231114.png
-2026-05-21 23:11:14,784 - INFO - Entering Invalid Email
-2026-05-21 23:11:15,001 - INFO - Screenshot saved at: reports/screenshots/TC_07_11_InvalidEmail_20260521_231114.png
-2026-05-21 23:11:15,135 - INFO - Screenshot saved at: reports/screenshots/TC_07_12_Error_20260521_231115.png
-2026-05-21 23:11:15,144 - INFO - Invalid Checkout Email Test Passed
-2026-05-21 23:11:19,246 - INFO - Opening BestBuy
-2026-05-21 23:11:25,351 - INFO - Screenshot saved at: reports/screenshots/TC_08_01_Homepage_20260521_231125.png
-2026-05-21 23:11:25,432 - INFO - Homepage Validation Passed
-2026-05-21 23:11:25,433 - INFO - Selecting Country
-2026-05-21 23:11:29,379 - INFO - Screenshot saved at: reports/screenshots/TC_08_02_Country_20260521_231128.png
-2026-05-21 23:11:29,406 - INFO - Country Validation Passed
-2026-05-21 23:11:29,406 - INFO - Opening Top Deals
-2026-05-21 23:11:40,949 - INFO - Screenshot saved at: reports/screenshots/TC_08_03_TopDeals_20260521_231140.png
-2026-05-21 23:11:41,052 - INFO - Top Deals Validation Passed
-2026-05-21 23:11:41,052 - INFO - Opening Apple Section
-2026-05-21 23:11:46,263 - INFO - Screenshot saved at: reports/screenshots/TC_08_04_Apple_20260521_231146.png
-2026-05-21 23:11:46,393 - INFO - Apple Navigation Validation Passed
-2026-05-21 23:11:46,393 - INFO - TC_08 Passed Successfully
+2026-05-22 16:20:35,986 - INFO - Opening BestBuy
+2026-05-22 16:20:42,675 - INFO - Screenshot saved at: reports/screenshots/01_Homepage_Opened_20260522_162042.png
+2026-05-22 16:20:42,793 - INFO - Selecting Country
+2026-05-22 16:20:46,819 - INFO - Screenshot saved at: reports/screenshots/02_Country_Selected_20260522_162046.png
+2026-05-22 16:20:46,909 - INFO - Opening Top Deals
+2026-05-22 16:20:58,353 - INFO - Screenshot saved at: reports/screenshots/03_Top_Deals_Page_20260522_162058.png
+2026-05-22 16:20:58,354 - INFO - Opening Apple
+2026-05-22 16:21:08,756 - INFO - Screenshot saved at: reports/screenshots/04_Apple_Page_20260522_162108.png
+2026-05-22 16:21:08,972 - INFO - Opening MacBook
+2026-05-22 16:21:16,579 - INFO - Screenshot saved at: reports/screenshots/05_MacBook_Page_20260522_162116.png
+2026-05-22 16:21:16,683 - INFO - Selecting Processor Filter
+2026-05-22 16:21:25,869 - INFO - Screenshot saved at: reports/screenshots/06_Processor_Filter_20260522_162125.png
+2026-05-22 16:21:25,870 - INFO - Selecting Apple M4 Processor
+2026-05-22 16:21:38,422 - INFO - Screenshot saved at: reports/screenshots/07_Processor_Selected_20260522_162138.png
+2026-05-22 16:21:38,423 - INFO - Adding Product To Cart
+2026-05-22 16:21:42,537 - INFO - Screenshot saved at: reports/screenshots/08_Product_Added_20260522_162142.png
+2026-05-22 16:21:55,877 - INFO - Screenshot saved at: reports/screenshots/09_Cart_Page_20260522_162155.png
+2026-05-22 16:21:55,924 - INFO - Proceeding To Checkout
+2026-05-22 16:21:59,472 - INFO - Screenshot saved at: reports/screenshots/10_Checkout_Page_20260522_162159.png
+2026-05-22 16:21:59,482 - INFO - End To End Flow Passed
+2026-05-22 16:22:03,514 - INFO - Opening BestBuy
+2026-05-22 16:22:11,180 - INFO - Screenshot saved at: reports/screenshots/TC_01_01_Homepage_20260522_162210.png
+2026-05-22 16:22:11,312 - INFO - Selecting Country
+2026-05-22 16:22:15,253 - INFO - Opening Top Deals
+2026-05-22 16:22:28,378 - INFO - Opening Apple Section
+2026-05-22 16:22:35,329 - INFO - Screenshot saved at: reports/screenshots/TC_01_02_Apple_20260522_162235.png
+2026-05-22 16:22:39,426 - INFO - Opening MacBook Section
+2026-05-22 16:22:47,082 - INFO - Screenshot saved at: reports/screenshots/TC_01_03_MacBook_20260522_162246.png
+2026-05-22 16:22:47,184 - INFO - Opening Processor Filter
+2026-05-22 16:22:56,227 - INFO - Selecting Processor: Apple M4
+2026-05-22 16:23:07,935 - INFO - Screenshot saved at: reports/screenshots/TC_01_04_Processor_20260522_162307.png
+2026-05-22 16:23:07,936 - INFO - Adding Product To Cart
+2026-05-22 16:23:11,945 - INFO - Screenshot saved at: reports/screenshots/TC_01_05_AddToCart_20260522_162311.png
+2026-05-22 16:23:11,946 - INFO - Opening Cart
+2026-05-22 16:23:21,227 - INFO - Screenshot saved at: reports/screenshots/TC_01_06_Cart_20260522_162321.png
+2026-05-22 16:23:21,233 - INFO - Add To Cart Validation Passed
+2026-05-22 16:23:21,234 - INFO - Positive Test Passed
+2026-05-22 16:23:25,121 - INFO - Opening BestBuy
+2026-05-22 16:23:31,677 - INFO - Screenshot saved at: reports/screenshots/TC_02_01_Homepage_20260522_162330.png
+2026-05-22 16:23:31,684 - INFO - Selecting Country
+2026-05-22 16:23:34,744 - INFO - Opening Top Deals
+2026-05-22 16:23:46,219 - INFO - Opening Apple Section
+2026-05-22 16:23:51,252 - INFO - Screenshot saved at: reports/screenshots/TC_02_02_Apple_20260522_162351.png
+2026-05-22 16:23:51,405 - INFO - Opening MacBook Section
+2026-05-22 16:24:03,780 - INFO - Screenshot saved at: reports/screenshots/TC_02_03_MacBook_20260522_162403.png
+2026-05-22 16:24:03,891 - INFO - Opening Processor Filter
+2026-05-22 16:24:12,938 - INFO - Selecting Processor: Apple M3
+2026-05-22 16:24:24,435 - INFO - Screenshot saved at: reports/screenshots/TC_02_04_Processor_20260522_162424.png
+2026-05-22 16:24:24,437 - INFO - Adding Product To Cart
+2026-05-22 16:24:28,666 - INFO - Screenshot saved at: reports/screenshots/TC_02_05_AddToCart_20260522_162428.png
+2026-05-22 16:24:28,667 - INFO - Opening Cart
+2026-05-22 16:24:36,628 - INFO - Screenshot saved at: reports/screenshots/TC_02_06_Cart_20260522_162436.png
+2026-05-22 16:24:36,631 - INFO - Add To Cart Validation Passed
+2026-05-22 16:24:36,631 - INFO - Positive Test Passed
+2026-05-22 16:24:40,460 - INFO - Opening BestBuy
+2026-05-22 16:24:47,588 - INFO - Screenshot saved at: reports/screenshots/TC_03_01_Homepage_20260522_162447.png
+2026-05-22 16:24:47,708 - INFO - Selecting Country
+2026-05-22 16:24:50,988 - INFO - Opening Top Deals
+2026-05-22 16:24:58,943 - INFO - Opening Apple Section
+2026-05-22 16:25:05,762 - INFO - Screenshot saved at: reports/screenshots/TC_03_02_Apple_20260522_162505.png
+2026-05-22 16:25:05,947 - INFO - Opening MacBook Section
+2026-05-22 16:25:18,257 - INFO - Screenshot saved at: reports/screenshots/TC_03_03_MacBook_20260522_162518.png
+2026-05-22 16:25:18,384 - INFO - Opening Processor Filter
+2026-05-22 16:25:27,522 - INFO - Selecting Processor: Apple M4
+2026-05-22 16:25:39,606 - INFO - Screenshot saved at: reports/screenshots/TC_03_04_Processor_20260522_162539.png
+2026-05-22 16:25:39,607 - INFO - Adding Product To Cart
+2026-05-22 16:25:43,527 - INFO - Screenshot saved at: reports/screenshots/TC_03_05_AddToCart_20260522_162543.png
+2026-05-22 16:25:43,528 - INFO - Opening Cart
+2026-05-22 16:25:51,443 - INFO - Screenshot saved at: reports/screenshots/TC_03_06_Cart_20260522_162551.png
+2026-05-22 16:25:51,490 - INFO - Proceeding To Checkout
+2026-05-22 16:25:55,400 - INFO - Screenshot saved at: reports/screenshots/TC_03_07_Checkout_20260522_162555.png
+2026-05-22 16:25:55,410 - INFO - Checkout Validation Passed
+2026-05-22 16:25:55,410 - INFO - Positive Test Passed
+2026-05-22 16:25:59,277 - INFO - Opening BestBuy
+2026-05-22 16:26:05,576 - INFO - Screenshot saved at: reports/screenshots/TC_04_01_Homepage_20260522_162605.png
+2026-05-22 16:26:05,653 - INFO - Selecting Country
+2026-05-22 16:26:09,306 - INFO - Opening Top Deals
+2026-05-22 16:26:20,519 - INFO - Opening Apple Section
+2026-05-22 16:26:26,828 - INFO - Screenshot saved at: reports/screenshots/TC_04_02_Apple_20260522_162626.png
+2026-05-22 16:26:30,733 - INFO - Opening MacBook Section
+2026-05-22 16:26:38,152 - INFO - Screenshot saved at: reports/screenshots/TC_04_03_MacBook_20260522_162638.png
+2026-05-22 16:26:38,255 - INFO - Opening Processor Filter
+2026-05-22 16:26:47,301 - INFO - Selecting Processor: Apple M3
+2026-05-22 16:26:58,950 - INFO - Screenshot saved at: reports/screenshots/TC_04_04_Processor_20260522_162658.png
+2026-05-22 16:26:58,950 - INFO - Adding Product To Cart
+2026-05-22 16:27:02,946 - INFO - Screenshot saved at: reports/screenshots/TC_04_05_AddToCart_20260522_162702.png
+2026-05-22 16:27:02,946 - INFO - Opening Cart
+2026-05-22 16:27:16,125 - INFO - Screenshot saved at: reports/screenshots/TC_04_06_Cart_20260522_162716.png
+2026-05-22 16:27:16,172 - INFO - Cart Validation Passed
+2026-05-22 16:27:16,172 - INFO - Positive Test Passed
+2026-05-22 16:27:19,967 - INFO - Opening BestBuy
+2026-05-22 16:27:26,387 - INFO - Screenshot saved at: reports/screenshots/TC_05_01_Homepage_20260522_162726.png
+2026-05-22 16:27:30,121 - INFO - Screenshot saved at: reports/screenshots/TC_05_02_Country_20260522_162729.png
+2026-05-22 16:27:41,072 - INFO - Screenshot saved at: reports/screenshots/TC_05_03_TopDeals_20260522_162740.png
+2026-05-22 16:27:47,213 - INFO - Screenshot saved at: reports/screenshots/TC_05_04_Apple_20260522_162747.png
+2026-05-22 16:27:58,400 - INFO - Screenshot saved at: reports/screenshots/TC_05_05_MacBook_20260522_162758.png
+2026-05-22 16:28:07,555 - INFO - Screenshot saved at: reports/screenshots/TC_05_06_Filter_20260522_162807.png
+2026-05-22 16:28:07,555 - INFO - Selecting Invalid Processor: Invalid Processor
+2026-05-22 16:28:21,296 - INFO - Screenshot saved at: reports/screenshots/TC_05_07_InvalidProcessor_20260522_162821.png
+2026-05-22 16:28:21,297 - INFO - Negative Test Passed
+2026-05-22 16:28:25,182 - INFO - Opening BestBuy
+2026-05-22 16:28:31,579 - INFO - Screenshot saved at: reports/screenshots/TC_06_01_Homepage_20260522_162831.png
+2026-05-22 16:28:35,673 - INFO - Screenshot saved at: reports/screenshots/TC_06_02_Country_20260522_162835.png
+2026-05-22 16:28:42,919 - INFO - Screenshot saved at: reports/screenshots/TC_06_03_TopDeals_20260522_162842.png
+2026-05-22 16:28:47,358 - INFO - Screenshot saved at: reports/screenshots/TC_06_04_Apple_20260522_162847.png
+2026-05-22 16:28:58,832 - INFO - Screenshot saved at: reports/screenshots/TC_06_05_MacBook_20260522_162858.png
+2026-05-22 16:29:07,985 - INFO - Screenshot saved at: reports/screenshots/TC_06_06_Filter_20260522_162907.png
+2026-05-22 16:29:07,986 - INFO - Selecting Invalid Processor: Apple M10
+2026-05-22 16:29:21,704 - INFO - Screenshot saved at: reports/screenshots/TC_06_07_InvalidProcessor_20260522_162921.png
+2026-05-22 16:29:21,705 - INFO - Negative Test Passed
+2026-05-22 16:29:25,629 - INFO - Opening BestBuy
+2026-05-22 16:29:32,254 - INFO - Screenshot saved at: reports/screenshots/TC_07_01_Homepage_20260522_162931.png
+2026-05-22 16:29:36,521 - INFO - Screenshot saved at: reports/screenshots/TC_07_02_Country_20260522_162935.png
+2026-05-22 16:29:44,311 - INFO - Screenshot saved at: reports/screenshots/TC_07_03_TopDeals_20260522_162944.png
+2026-05-22 16:29:49,067 - INFO - Screenshot saved at: reports/screenshots/TC_07_04_Apple_20260522_162948.png
+2026-05-22 16:30:00,776 - INFO - Screenshot saved at: reports/screenshots/TC_07_05_MacBook_20260522_163000.png
+2026-05-22 16:30:09,912 - INFO - Screenshot saved at: reports/screenshots/TC_07_06_Filter_20260522_163009.png
+2026-05-22 16:30:21,723 - INFO - Screenshot saved at: reports/screenshots/TC_07_07_Processor_20260522_163021.png
+2026-05-22 16:30:25,649 - INFO - Screenshot saved at: reports/screenshots/TC_07_08_AddToCart_20260522_163025.png
+2026-05-22 16:30:34,036 - INFO - Screenshot saved at: reports/screenshots/TC_07_09_Cart_20260522_163033.png
+2026-05-22 16:30:38,367 - INFO - Screenshot saved at: reports/screenshots/TC_07_10_Checkout_20260522_163038.png
+2026-05-22 16:30:38,369 - INFO - Entering Invalid Email
+2026-05-22 16:30:38,527 - INFO - Screenshot saved at: reports/screenshots/TC_07_11_InvalidEmail_20260522_163038.png
+2026-05-22 16:30:38,641 - INFO - Screenshot saved at: reports/screenshots/TC_07_12_Error_20260522_163038.png
+2026-05-22 16:30:38,649 - INFO - Invalid Checkout Email Test Passed
+2026-05-22 16:30:42,531 - INFO - Opening BestBuy
+2026-05-22 16:30:49,282 - INFO - Screenshot saved at: reports/screenshots/TC_08_01_Homepage_20260522_163048.png
+2026-05-22 16:30:49,364 - INFO - Homepage Validation Passed
+2026-05-22 16:30:49,365 - INFO - Selecting Country
+2026-05-22 16:30:54,169 - INFO - Screenshot saved at: reports/screenshots/TC_08_02_Country_20260522_163053.png
+2026-05-22 16:30:54,469 - INFO - Country Validation Passed
+2026-05-22 16:30:54,470 - INFO - Opening Top Deals
+2026-05-22 16:31:05,315 - INFO - Screenshot saved at: reports/screenshots/TC_08_03_TopDeals_20260522_163105.png
+2026-05-22 16:31:05,449 - INFO - Top Deals Validation Passed
+2026-05-22 16:31:05,449 - INFO - Opening Apple Section
+2026-05-22 16:31:09,856 - INFO - Screenshot saved at: reports/screenshots/TC_08_04_Apple_20260522_163109.png
+2026-05-22 16:31:14,106 - INFO - Apple Navigation Validation Passed
+2026-05-22 16:31:14,107 - INFO - TC_08 Passed Successfully

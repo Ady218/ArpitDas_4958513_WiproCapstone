@@ -1,0 +1,140 @@
+2026-05-22 22:54:00,012 - INFO - Loading End To End Test Data
+2026-05-22 22:54:00,018 - INFO - Loaded Test Data Successfully: TC_03
+2026-05-22 22:54:00,019 - INFO - Opening BestBuy Website
+2026-05-22 22:54:06,671 - INFO - Homepage Opened Successfully
+2026-05-22 22:54:06,672 - INFO - Selecting Country
+2026-05-22 22:54:10,837 - INFO - Country Selected Successfully
+2026-05-22 22:54:10,838 - INFO - Opening Top Deals
+2026-05-22 22:54:24,004 - INFO - Top Deals Opened Successfully
+2026-05-22 22:54:24,005 - INFO - Opening Apple Section
+2026-05-22 22:54:32,122 - INFO - Apple Section Opened Successfully
+2026-05-22 22:54:32,124 - INFO - Opening MacBook Section
+2026-05-22 22:54:39,246 - INFO - MacBook Page Opened Successfully
+2026-05-22 22:54:39,248 - INFO - Selecting Processor Filter
+2026-05-22 22:54:48,507 - INFO - Processor Filter Expanded Successfully
+2026-05-22 22:54:48,509 - INFO - Selecting Processor: Apple M4
+2026-05-22 22:55:00,596 - INFO - Processor Selected Successfully: Apple M4
+2026-05-22 22:55:00,598 - INFO - Adding Product To Cart
+2026-05-22 22:55:04,647 - INFO - Product Added To Cart Successfully
+2026-05-22 22:55:04,649 - INFO - Opening Cart
+2026-05-22 22:55:12,478 - INFO - Cart Validation Passed
+2026-05-22 22:55:12,480 - INFO - Proceeding To Checkout
+2026-05-22 22:55:17,821 - INFO - Checkout Page Opened Successfully
+2026-05-22 22:55:17,822 - INFO - Validating Checkout Page
+2026-05-22 22:55:17,830 - INFO - Checkout Validation Passed
+2026-05-22 22:55:21,118 - INFO - Loading Positive Data: TC_01
+2026-05-22 22:55:21,123 - INFO - Positive Data Loaded Successfully: TC_01
+2026-05-22 22:55:21,126 - INFO - Opening BestBuy Website
+2026-05-22 22:55:27,640 - INFO - Homepage Opened Successfully
+2026-05-22 22:55:27,641 - INFO - Selecting Country
+2026-05-22 22:55:31,598 - INFO - Country Selected Successfully
+2026-05-22 22:55:31,599 - INFO - Opening Top Deals
+2026-05-22 22:55:38,633 - INFO - Top Deals Opened Successfully
+2026-05-22 22:55:38,634 - INFO - Opening Apple Section
+2026-05-22 22:55:46,887 - INFO - Apple Section Opened Successfully
+2026-05-22 22:55:46,888 - INFO - Opening MacBook Section
+2026-05-22 22:55:54,386 - INFO - MacBook Section Opened Successfully
+2026-05-22 22:55:54,386 - INFO - Selecting Processor Filter
+2026-05-22 22:56:03,587 - INFO - Processor Filter Expanded Successfully
+2026-05-22 22:56:03,588 - INFO - Selecting Processor: Apple M4
+2026-05-22 22:56:16,520 - INFO - Processor Selected Successfully: Apple M4
+2026-05-22 22:56:16,521 - INFO - Validating Positive Flow
+2026-05-22 22:56:16,606 - INFO - Positive Validation Passed
+2026-05-22 22:56:19,875 - INFO - Loading Positive Data: TC_02
+2026-05-22 22:56:19,887 - INFO - Positive Data Loaded Successfully: TC_02
+2026-05-22 22:56:19,890 - INFO - Opening BestBuy Website
+2026-05-22 22:56:27,169 - INFO - Homepage Opened Successfully
+2026-05-22 22:56:27,169 - INFO - Selecting Country
+2026-05-22 22:56:31,189 - INFO - Country Selected Successfully
+2026-05-22 22:56:31,190 - INFO - Opening Top Deals
+2026-05-22 22:56:42,513 - INFO - Top Deals Opened Successfully
+2026-05-22 22:56:42,514 - INFO - Opening Apple Section
+2026-05-22 22:56:52,260 - INFO - Apple Section Opened Successfully
+2026-05-22 22:56:52,261 - INFO - Opening MacBook Section
+2026-05-22 22:57:00,637 - INFO - MacBook Section Opened Successfully
+2026-05-22 22:57:00,637 - INFO - Selecting Processor Filter
+2026-05-22 22:57:09,830 - INFO - Processor Filter Expanded Successfully
+2026-05-22 22:57:09,831 - INFO - Selecting Processor: Apple M3
+2026-05-22 22:57:22,339 - INFO - Processor Selected Successfully: Apple M3
+2026-05-22 22:57:22,339 - INFO - Validating Positive Flow
+2026-05-22 22:57:22,442 - INFO - Positive Validation Passed
+2026-05-22 22:57:25,644 - INFO - Loading Positive Data: TC_03
+2026-05-22 22:57:25,647 - INFO - Positive Data Loaded Successfully: TC_03
+2026-05-22 22:57:25,649 - INFO - Opening BestBuy Website
+2026-05-22 22:57:32,691 - INFO - Homepage Opened Successfully
+2026-05-22 22:57:32,691 - INFO - Selecting Country
+2026-05-22 22:57:36,920 - INFO - Country Selected Successfully
+2026-05-22 22:57:36,920 - INFO - Opening Top Deals
+2026-05-22 22:57:45,140 - INFO - Top Deals Opened Successfully
+2026-05-22 22:57:45,141 - INFO - Opening Apple Section
+2026-05-22 22:57:54,304 - INFO - Apple Section Opened Successfully
+2026-05-22 22:57:54,305 - INFO - Opening MacBook Section
+2026-05-22 22:58:01,827 - INFO - MacBook Section Opened Successfully
+2026-05-22 22:58:01,827 - INFO - Selecting Processor Filter
+2026-05-22 22:58:11,033 - INFO - Processor Filter Expanded Successfully
+2026-05-22 22:58:11,034 - INFO - Selecting Processor: Apple M4
+2026-05-22 22:58:23,410 - INFO - Processor Selected Successfully: Apple M4
+2026-05-22 22:58:23,410 - INFO - Validating Positive Flow
+2026-05-22 22:58:23,490 - INFO - Positive Validation Passed
+2026-05-22 22:58:26,725 - INFO - Loading Positive Data: TC_04
+2026-05-22 22:58:26,737 - INFO - Positive Data Loaded Successfully: TC_04
+2026-05-22 22:58:26,739 - INFO - Opening BestBuy Website
+2026-05-22 22:58:34,707 - INFO - Homepage Opened Successfully
+2026-05-22 22:58:34,708 - INFO - Selecting Country
+2026-05-22 22:58:39,267 - INFO - Country Selected Successfully
+2026-05-22 22:58:39,268 - INFO - Opening Top Deals
+2026-05-22 22:58:51,225 - INFO - Top Deals Opened Successfully
+2026-05-22 22:58:51,226 - INFO - Opening Apple Section
+2026-05-22 22:58:57,300 - INFO - Apple Section Opened Successfully
+2026-05-22 22:58:57,301 - INFO - Opening MacBook Section
+2026-05-22 22:59:08,572 - INFO - MacBook Section Opened Successfully
+2026-05-22 22:59:08,572 - INFO - Selecting Processor Filter
+2026-05-22 22:59:17,831 - INFO - Processor Filter Expanded Successfully
+2026-05-22 22:59:17,832 - INFO - Selecting Processor: Apple M3
+2026-05-22 22:59:29,536 - INFO - Processor Selected Successfully: Apple M3
+2026-05-22 22:59:29,537 - INFO - Validating Positive Flow
+2026-05-22 22:59:29,631 - INFO - Positive Validation Passed
+2026-05-22 22:59:32,811 - INFO - Loading Negative Data: TC_05
+2026-05-22 22:59:32,816 - INFO - Negative Data Loaded Successfully
+2026-05-22 23:00:37,373 - INFO - Negative Validation Passed
+2026-05-22 23:00:40,596 - INFO - Loading Negative Data: TC_06
+2026-05-22 23:00:40,605 - INFO - Negative Data Loaded Successfully
+2026-05-22 23:01:39,244 - INFO - Negative Validation Passed
+2026-05-22 23:01:42,638 - INFO - Loading Checkout Negative Data: TC_07
+2026-05-22 23:01:42,643 - INFO - Checkout Negative Data Loaded Successfully
+2026-05-22 23:01:42,644 - INFO - Opening BestBuy Website
+2026-05-22 23:01:49,975 - INFO - Homepage Opened Successfully
+2026-05-22 23:01:49,976 - INFO - Selecting Country
+2026-05-22 23:01:54,014 - INFO - Country Selected Successfully
+2026-05-22 23:01:54,015 - INFO - Opening Top Deals
+2026-05-22 23:02:04,975 - INFO - Top Deals Opened Successfully
+2026-05-22 23:02:04,976 - INFO - Opening Apple Section
+2026-05-22 23:02:13,717 - INFO - Apple Section Opened Successfully
+2026-05-22 23:02:13,718 - INFO - Opening MacBook Section
+2026-05-22 23:02:21,949 - INFO - MacBook Section Opened Successfully
+2026-05-22 23:02:21,950 - INFO - Selecting Processor Filter
+2026-05-22 23:02:31,161 - INFO - Processor Filter Expanded Successfully
+2026-05-22 23:02:31,161 - INFO - Selecting Processor
+2026-05-22 23:02:43,747 - INFO - Processor Selected Successfully
+2026-05-22 23:02:43,747 - INFO - Adding Product To Cart
+2026-05-22 23:02:47,814 - INFO - Product Added To Cart Successfully
+2026-05-22 23:02:47,815 - INFO - Opening Cart
+2026-05-22 23:02:58,174 - INFO - Cart Opened Successfully
+2026-05-22 23:02:58,175 - INFO - Proceeding To Checkout
+2026-05-22 23:03:02,485 - INFO - Checkout Page Opened Successfully
+2026-05-22 23:03:02,486 - INFO - Entering Invalid Email
+2026-05-22 23:03:02,759 - INFO - Invalid Email Entered Successfully
+2026-05-22 23:03:02,760 - INFO - Validating Checkout Negative Flow
+2026-05-22 23:03:02,766 - INFO - Checkout Negative Validation Passed
+2026-05-22 23:03:06,042 - INFO - Loading Navigation Data: TC_08
+2026-05-22 23:03:06,052 - INFO - Navigation Data Loaded Successfully
+2026-05-22 23:03:06,054 - INFO - Opening BestBuy Website
+2026-05-22 23:03:12,708 - INFO - Homepage Opened Successfully
+2026-05-22 23:03:12,709 - INFO - Selecting Country
+2026-05-22 23:03:17,148 - INFO - Country Selected Successfully
+2026-05-22 23:03:17,149 - INFO - Opening Top Deals
+2026-05-22 23:03:25,462 - INFO - Top Deals Opened Successfully
+2026-05-22 23:03:25,463 - INFO - Opening Apple Section
+2026-05-22 23:03:35,252 - INFO - Apple Section Opened Successfully
+2026-05-22 23:03:35,253 - INFO - Validating Navigation Flow
+2026-05-22 23:03:35,586 - INFO - Navigation Validation Passed

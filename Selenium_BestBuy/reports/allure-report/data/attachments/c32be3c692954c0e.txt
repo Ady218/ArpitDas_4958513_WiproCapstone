@@ -1,0 +1,13 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m utilities.logger:test_scenarios.py:330 Opening BestBuy
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_01_Homepage_20260522_162831.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_02_Country_20260522_162835.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_03_TopDeals_20260522_162842.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_04_Apple_20260522_162847.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_05_MacBook_20260522_162858.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_06_Filter_20260522_162907.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:398 Selecting Invalid Processor: Apple M10
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_06_07_InvalidProcessor_20260522_162921.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:413 Negative Test Passed
