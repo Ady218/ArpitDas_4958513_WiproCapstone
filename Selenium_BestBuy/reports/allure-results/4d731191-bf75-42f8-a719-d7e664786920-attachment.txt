@@ -1,0 +1,29 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 WebDriver version 148.0.7778.178 selected
+[32mINFO    [0m WDM:logger.py:11 Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+[32mINFO    [0m WDM:logger.py:11 About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+[32mINFO    [0m WDM:logger.py:11 Driver downloading response is 200
+[32mINFO    [0m WDM:logger.py:11 Driver has been saved in cache [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:44 Opening BestBuy
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/01_Homepage_Opened_20260523_172359.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:59 Selecting Country
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/02_Country_Selected_20260523_172403.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:74 Opening Top Deals
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/03_Top_Deals_Page_20260523_172416.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:87 Opening Apple
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/04_Apple_Page_20260523_172421.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:102 Opening MacBook
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/05_MacBook_Page_20260523_172433.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:117 Selecting Processor Filter
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/06_Processor_Filter_20260523_172443.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:130 Selecting Apple M4 Processor
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/07_Processor_Selected_20260523_172455.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:147 Adding Product To Cart
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/08_Product_Added_20260523_172459.png
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/09_Cart_Page_20260523_172514.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:175 Proceeding To Checkout
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/10_Checkout_Page_20260523_172518.png
+[32mINFO    [0m utilities.logger:test_end_to_end_flow.py:189 End To End Flow Passed

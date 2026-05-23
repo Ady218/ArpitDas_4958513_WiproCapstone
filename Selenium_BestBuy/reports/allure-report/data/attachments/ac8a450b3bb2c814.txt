@@ -1,0 +1,16 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\arpit\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m utilities.logger:test_scenarios.py:634 Opening BestBuy
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:327 Connection pool is full, discarding connection: localhost. Connection pool size: 1
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_08_01_Homepage_20260523_173419.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:647 Homepage Validation Passed
+[32mINFO    [0m utilities.logger:test_scenarios.py:655 Selecting Country
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_08_02_Country_20260523_173422.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:668 Country Validation Passed
+[32mINFO    [0m utilities.logger:test_scenarios.py:676 Opening Top Deals
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_08_03_TopDeals_20260523_173434.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:689 Top Deals Validation Passed
+[32mINFO    [0m utilities.logger:test_scenarios.py:697 Opening Apple Section
+[32mINFO    [0m utilities.logger:screenshot.py:39 Screenshot saved at: reports/screenshots/TC_08_04_Apple_20260523_173439.png
+[32mINFO    [0m utilities.logger:test_scenarios.py:710 Apple Navigation Validation Passed
+[32mINFO    [0m utilities.logger:test_scenarios.py:714 TC_08 Passed Successfully

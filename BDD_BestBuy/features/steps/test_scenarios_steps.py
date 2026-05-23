@@ -1014,7 +1014,7 @@ def step_load_navigation_data(
 
 
 # =========================================================
-# NAVIGATION FLOW
+# POSITIVE NAVIGATION FLOW
 # =========================================================
 
 @when(
